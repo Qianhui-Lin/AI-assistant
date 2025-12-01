@@ -1,0 +1,2074 @@
+MANUAL OF ACADEMIC REGULATIONS
+AND PROCEDURES 2025-26
+POSTGRADUATE RESEARCH REGULATIONS
+(APPLICABLE FROM OCTOBER 2025)
+Academic Quality, Standards and Conduct
+Student and Education Services
+MARP 2025-26
+MARP 2025-26
+Postgraduate Research Regulations
+CONTENTS
+PR 1 RESEARCH AWARDS ....................................................................... 3
+PR 2 PHD REGULATIONS ......................................................................... 3
+PR 2.1 CRITERIA FOR THE AWARD ........................................................................................ 3
+PR 2.2 REGISTRATION PERIOD.............................................................................................. 4
+PR 2.3 SCHEDULE OF WORK ................................................................................................. 5
+PR 2.4 PROGRESSION REQUIREMENTS ................................................................................. 6
+PR 2.5 CONFIRMATION OF PHD STATUS ............................................................................... 7
+PR 2.6 SUBMISSION OF THESIS ............................................................................................. 9
+PR 2.7 FORMAT OF THESIS ................................................................................................. 10
+PR 2.8 EXAMINATION ........................................................................................................ 10
+PR 2.9 EXAMINATION OUTCOMES ..................................................................................... 11
+PR 2.10 DISAGREEMENT BETWEEN EXAMINERS ON FIRST SUBMISSION OF THESIS ................ 12
+PR 2.11 RESUBMISSION ....................................................................................................... 13
+PR 2.12 DISAGREEMENT BETWEEN EXAMINERS UPON THESIS RESUBMITTED ....................... 14
+PR 3 MPHIL REGULATIONS ................................................................... 14
+PR 3.1 CRITERIA FOR THE AWARD ...................................................................................... 14
+PR 3.2 REGISTRATION PERIOD............................................................................................ 15
+PR 3.3 SCHEDULE OF WORK ............................................................................................... 15
+PR 3.4 PROGRESSION REQUIREMENTS ............................................................................... 16
+PR 3.5 SUBMISSION OF THESIS ........................................................................................... 16
+PR 3.6 FORMAT OF THESIS ................................................................................................. 17
+PR 3.7 EXAMINATION ........................................................................................................ 18
+PR 3.8 EXAMINATION OUTCOMES ..................................................................................... 18
+PR 3.9 DISAGREEMENT BETWEEN EXAMINERS ON FIRST SUBMISSION OF THESIS ................ 19
+PR 3.10 RESUBMISSION ....................................................................................................... 20
+PR 3.11 DISAGREEMENT BETWEEN EXAMINERS UPON THESIS RESUBMITTED ....................... 20
+PR 3.12 TRANSFER OF REGISTRATION FROM MPHIL TO PHD ................................................. 20
+PR 4 LLM/MA/MSC BY RESEARCH REGULATIONS ................................. 21
+PR 4.1 CRITERIA FOR THE AWARD ...................................................................................... 21
+PR 4.2 REGISTRATION PERIOD............................................................................................ 22
+PR 4.3 SUBMISSION OF DISSERTATION ............................................................................... 23
+PR 4.4 CONSIDERATION OF RESULTS BY BOARDS OF EXAMINATION ................................... 23
+Version 1.1 1
+MARP 2025-26
+Postgraduate Research Regulations
+PR 5 APPOINTMENT OF EXAMINERS (ALL RESEARCH DEGREES) ............ 25
+PR 5.1 GENERAL REQUIREMENTS ....................................................................................... 25
+PR 5.2 EXTERNAL EXAMINERS: ELIGIBILITY AND APPOINTMENT ......................................... 25
+PR 5.3 INTERNAL EXAMINERS: ELIGIBILITY AND APPOINTMENT ......................................... 25
+PR 5.4 CONFLICTS OF INTEREST .......................................................................................... 26
+PR 6 POSTHUMOUS AWARDS (PHD AND MPHIL AND MASTERS BY
+RESEARCH) ................................................................................................... 26
+APPENDICES TO THE POSTGRADUATE RESEARCH REGULATIONS ................. 28
+APPENDIX 1: DEFINITIONS OF POSTGRADUATE RESEARCH AWARDS .......... 28
+APPENDIX 2: THE FORM, SUBMISSION AND DEPOSIT OF THESES ................ 30
+APPLICATION ........................................................................................................................ 30
+FORM OF THE THESIS: LENGTH, PRESENTATION AND LAYOUT ................................................ 30
+SUBMISSION OF THESES FOR EXAMINATION .......................................................................... 32
+DEPOSIT OF THE FINAL VERSION OF THE THESIS ..................................................................... 33
+EMBARGOING ACCESS TO THE THESIS .................................................................................... 33
+REQUIREMENTS .................................................................................................................... 34
+APPENDIX 3: REGULATIONS FOR SPECIFIC DOCTORAL AWARDS OR
+PROGRAMMES............................................................................................. 35
+PHD BY COURSEWORK AND THESIS ....................................................................................... 35
+INTEGRATED PHD PROGRAMMES .......................................................................................... 36
+MULTIMODAL RESEARCH DEGREES ........................................................................................ 37
+DOCTOR OF CLINICAL PSYCHOLOGY (DCLINPSY) ..................................................................... 38
+DOCTOR OF MEDICINE (MD) .................................................................................................. 39
+MULTI-PART THESES COMPRISED OF PAPERS AND ARTICLES .................................................. 40
+EUROPEAN DOCTORATE ........................................................................................................ 41
+PHD BY PUBLISHED WORK ..................................................................................................... 42
+APPENDIX 4: FRAMEWORK FOR THE RESEARCH DEGREE VIVA .................... 45
+APPENDIX 5: ONLINE VIVA VOCE EXAMINATIONS ....................................... 53
+APPENDIX 6: DETAIL OF IN-YEAR CHANGE MADE TO CHAPTER ................... 55
+Version 1.1 2
+MARP 2025-26
+Postgraduate Research Regulations
+MARP 2025-26
+POSTGRADUATE RESEARCH REGULATIONS
+PR 1 RESEARCH AWARDS
+PR 1.1 The University currently offers the following awards (see Appendix 1 of these
+Regulations for definitions of these awards):
+Doctor of Science/Letters (DSc/DLitt)
+Doctor of Philosophy (PhD - via publication, single volume or multi-part thesis, including
+European, integrated and professional variants)
+Doctor of Clinical Psychology (DClinPsy)
+Doctor of Engineering (EngD)
+Doctor of Management (DMgt)
+Doctor of Medicine (MD)
+Master of Philosophy (MPhil)
+Master of Arts, Law or Science by Research (LLM/MA/MSc by Research)
+Master of Research (MRes) (see below)
+PR 1.2 The University categorises the Master of Research (MRes) as a postgraduate research
+degree award. Such programmes are, however, governed by the regulations for
+postgraduate taught programmes for the purposes of assessment and classification, and
+as such the MRes is included within the Postgraduate Taught Assessment Regulations.
+PR 2 PHD REGULATIONS
+[Unless otherwise specified in Appendix 3: Regulations for Specific Doctoral Awards or Programmes,
+the following regulations for the award of PhD also apply to other doctoral awards.]
+PR 2.1 CRITERIA FOR THE AWARD
+PR 2.1.1 The degree shall be awarded on the examination of a thesis embodying the results of a
+candidate's research, and on an oral examination. The nature of the student's research
+programme should be on a scale which should be completed during three years, or at
+most four years, of full-time study or equivalent. In addition the candidate may be
+required to undertake such other tests as the examiners may decide.
+PR 2.1.2 A successful candidate for the degree of PhD shall show convincing evidence of the
+capacity to pursue scholarly research or scholarship in their field of study on a scale
+which should be completed during three years of full-time research. The results of this
+research shall then be embodied in a thesis which makes an original contribution to
+knowledge and the completed thesis must contain material of a standard appropriate
+Version 1.1 3
+MARP 2025-26
+Postgraduate Research Regulations
+for scholarly publication. The thesis shall comply with the requirements for the form,
+submission and deposit of theses.
+PR 2.1.3 A successful candidate for the degree of PhD should be able to demonstrate:
+(a) an ability to conceptualise, design and implement a major project for the
+generation of significant new knowledge, applications and/or understanding,
+using appropriate concepts and methods, where necessary adapting these to
+meet unforeseen issues;
+(b) a systematic acquisition of, and insight into, a substantial body of knowledge
+including the primary literature in their particular area of interest;
+(c) an ability to relate theory and concepts to evidence in a systematic way and to
+draw appropriate conclusions based on the evidence;
+(d) critical investigation of their research topic resulting in the creation and
+interpretation of knowledge which extends the forefront of their discipline
+through original research;
+(e) a detailed understanding of, and ability to use, applicable techniques for
+research and advanced inquiry in their field;
+(f) that they can make informed judgements on complex issues in their field, often
+in the absence of complete data;
+(g) that the research is of publishable quality and is of a standard which satisfies
+peer review;
+(h) that they are competent as an independent researcher in their discipline and
+capable of continuing to undertake research at an advanced level, contributing
+substantially to the development of new techniques, ideas or approaches;
+(i) an understanding of the place of the research in the wider context;
+(j) an ability to recognise the limitations of the research undertaken and to be able
+to suggest ways of overcoming these in future research;
+(k) an ability to write clearly and effectively and to meet approved criteria for
+formal presentation of a written thesis;
+(l) the qualities and transferable skills necessary for employment requiring
+personal responsibility and autonomous initiative in complex and often
+unpredictable situations;
+(m) the ability to communicate their ideas and conclusions clearly and effectively to
+specialist and non-specialist audiences.
+PR 2.2 REGISTRATION PERIOD
+PR 2.2.1 For full-time students the minimum period of registration for the degree shall normally
+be thirty-six calendar months from the date of commencement of studies to the date of
+Version 1.1 4
+MARP 2025-26
+Postgraduate Research Regulations
+submission of the thesis. The maximum period of registration shall be forty-eight
+months. Full-time students may, with the approval of the body or officer with delegated
+authority from Senate, be permitted to register for a shorter period, as proposed by the
+admitting department. A shorter period of registration, which may in no case be for a
+period of less than twelve months, may be justified by recognising the applicant’s
+attainment in original research prior to application and not otherwise accredited for a
+degree already awarded. Normally an extension beyond the maximum period of
+registration will not be permitted, but can be at the discretion of the body or officer with
+delegated authority from Senate.
+PR 2.2.2 For part-time students the minimum period of registration for the degree shall normally
+be forty-eight calendar months from the date of commencement of studies to the date
+of submission of the thesis. The maximum period of registration shall be eighty-four
+months. Part-time students may, with the approval of the body or officer with
+delegated authority from Senate, be permitted to register for a shorter period, as
+proposed by the admitting department. A shorter period of registration, which may in
+no case be for a period of less than twenty-four months, may be justified by recognising
+the applicant’s attainment in original research prior to application and not otherwise
+accredited for a degree already awarded. Normally an extension beyond the maximum
+period of registration will not be permitted, but can be at the discretion of the body or
+officer with delegated authority from Senate.
+PR 2.2.3 Where a student changes mode of study, the duration of their remaining study will be
+calculated using a full-time study to part-time study ratio of 1:1.75, rounding up to the
+nearest month.
+PR 2.2.4 In the event of an extension request being refused, PGR students have the right to
+appeal to the relevant faculty Associate Dean with a final appeal to the University
+Academic Dean.
+PR 2.3 SCHEDULE OF WORK
+PR 2.3.1 Upon registration each student will be assigned a minimum of one main supervisor, who
+will normally be part of a supervisory team.
+PR 2.3.2 The nature of the student’s research programme should be on a scale which should be
+completed during three years, or at most four years, of full-time study or equivalent.
+PR 2.3.3 The supervisor(s) and student should agree a realistic completion timetable which will
+enable the student to produce a thesis of the required standard within the stipulated
+time-scale. The supervisor(s) and student will agree milestones throughout this
+schedule against which progress will be monitored. Progress is monitored through
+appraisal meetings between the supervisor(s) and student. Further details of the
+appraisal process may be found in the University’s Code of Practice on Postgraduate
+Research Programmes.
+Version 1.1 5
+MARP 2025-26
+Postgraduate Research Regulations
+PR 2.4 PROGRESSION REQUIREMENTS
+Year 1 (year 2 part-time)
+PR 2.4.1 Within the first six months all research students must fulfil the following, or an
+equivalent, process:
+(a) attend an approved induction programme;
+(b) carry out an approved development needs analysis (DNA) or equivalent in
+consultation with their supervisors, and keep a record of agreed follow-up to the
+DNA;
+(c) take the appropriate research training activities, informed by the DNA as guided
+by their supervisors;
+(d) complete a research proposal or plan of work which the supervisors approve as
+appropriate and viable;
+(e) complete the mandatory Research Integrity and Ethical Research training;
+(f) agree any additional training that may be required;
+(g) agree a projected completion timetable with their supervisors; and
+(h) any additional requirements to meet the particular needs of the individual
+awards.
+PR 2.4.2 Any research student who does not demonstrate satisfactory progress during the first six
+months full-time should be: carefully monitored and supported, informed about any
+reasons for concern, set objectives, and their progress reviewed before the twelve-
+month deadline. If their progress is still not satisfactory they will be referred to the
+Standing Academic Committee by the academic department with a recommendation for
+exclusion from the programme. Students who have been excluded for failing to make
+satisfactory progress may appeal against the exclusion under the Academic Appeals
+procedures as defined in the chapter on Academic Appeals.
+PR 2.4.3 Confirmation of PhD status, where appropriate, may be conferred at this stage in
+accordance with the procedures (see PR 2.5 below).
+PR 2.4.4 It is the responsibility of the student and supervisor to identify whether ethical approval
+is required for any part of the research.1 If it is, then no research requiring ethical
+approval can be conducted before ethical approval has been granted by the Faculty
+Research Ethics Committee.
+1 Students and Supervisors should consult the guidance on Research Ethics, or consult their Faculty Ethics
+Committee to determine whether ethical approval is required.
+Version 1.1 6
+MARP 2025-26
+Postgraduate Research Regulations
+Years 2 to 4 (or part-time equivalents)
+PR 2.4.5 Continued registration of a student in years 2, 3 and 4 on the research component of a
+PhD programme is conditional upon agreed criteria including:
+(a) submission of an appraisal (progress) report, involving input from the student,
+supervisors and department;
+(b) evidence, confirmed in the appraisal (progress) report, that the student has:
+(i) attended the annual faculty-based progress briefing session;
+(ii) reviewed/revised their DNA;
+(iii) completed any additional training as agreed;
+(iv) Confirmed that:
+• Ethical approval for research has been obtained in writing via their
+Faculty Research Ethics Committee;
+• Ethical review is ongoing where research has not yet commenced; or
+• Ethical approval is not required for the scope of the research and
+this has been explicitly confirmed in writing and recorded via the
+appraisal form;
+(v) been offered adequate supervision (as outlined in the University’s Code
+of Practice for Research students), accepted it, and attended supervisory
+sessions;
+(vi) agreed a realistic completion timetable with their supervisors;
+(vii) demonstrated sufficient progress with their research/thesis; and
+(viii) any additional requirements previously agreed.
+PR 2.4.6 Where students fail to meet the criteria for continued registration they will be referred
+to the Standing Academic Committee by the academic department with a
+recommendation for exclusion from the programme. Students who have been excluded
+for failing to make satisfactory progress may appeal against the exclusion under the
+procedures for Academic Appeals as defined in the chapter on Academic Appeals.
+PR 2.4.7 During the first six months of the second year (or part-time equivalents) any student
+whose PhD registration has not yet been confirmed will be referred to the PhD
+Confirmation Panel (see PR 2.5.3 below).
+PR 2.5 CONFIRMATION OF PHD STATUS
+PR 2.5.1 Each programme/department shall publish clear information for students, approved by
+faculty, on the procedures for confirmation of PhD. A student supervised in more than
+one department shall follow the procedures used by the administrating department. The
+make-up of confirmation panels should be approved by the HoD or nominated deputy
+Version 1.1 7
+MARP 2025-26
+Postgraduate Research Regulations
+with suitable regard to avoid conflict of interest and the relevant experience and nature
+of the academic contract of the nominated panellists.
+PR 2.5.2 The published procedures should include details of:
+(a) membership of the panel;
+(b) volume, level and type of work to be submitted as evidence to the panel and
+justified in terms of the nature of the PhD to be awarded;
+(c) normal expected period in which a student should expect to have their PhD
+registration status confirmed, bearing in mind the mode of study, periods of
+suspension and any other relevant factors; and
+(d) a maximum of two attempts is available for a student to be considered for
+confirmation of PhD status;
+(e) the expectations of each panellist (supervisor, if present; chair, if present;
+confirmation panellists) in terms of their input and approach;
+(f) information on which forms or procedures need to be completed and followed
+pre panel and post panel;
+(g) how support for the student will be assessed.
+While programmes/departments have some discretion in determining the above, where
+there is deviation from the following guidance, this must be explicitly approved by
+faculties:
+(i) if, in exceptional circumstances, a confirmation panellist is also nominated as
+thesis internal examiner, the HoD or nominated deputy, in signing off the thesis
+supervisor form, must consider that there is no material advantage or
+disadvantage to this for the student and the existing form will need to be
+changed to reflect this;
+(ii) there should be at least one independent panellist (i.e. neither a supervisor or a
+member of staff currently acting as part of a student’s supervisory panel);
+(iii) where a supervisor is present for the confirmation panel, at least part of the
+panel discussion should take place without the supervisory team to enable
+discussions around the suitability of the current supervisory approach;
+(iv) where a second confirmation panel is required for a candidate, this must be
+both independently chaired and recorded;
+(v) as with viva recordings, recordings are only available to students in case of
+appeal.
+The first panel can either be recorded or independently chaired (i.e. the chair cannot be
+part of the panel making the confirmation decision). Where there is no separate chair,
+one of the panellists should take on the role of the chair. Where a recording is being
+used, students should be given the option to pause when they discuss their supervision
+Version 1.1 8
+MARP 2025-26
+Postgraduate Research Regulations
+experiences; this is also the case when supervisors discuss the candidate if the candidate
+is not present.
+PR 2.5.3 The PhD confirmation panel:
+(a) must normally be held no later than eighteen months after initial registration
+(twenty-four months for part-time) or entry into the research phase of a PhD
+with a previous taught component. Departments are responsible for ensuring
+the timely completion of the PhD Confirmation Panel. If the panel is held within
+twelve months of registration then the report of the panel should replace the
+first year’s annual review report. Where a student’s PhD status is confirmed
+after twenty-four months have elapsed (thirty-six months part-time) from initial
+registration, they are liable for fees for a further twelve months from the date of
+the panel (pro rata for part-time students);
+(b) must see and approve evidence that the student has: attended induction,
+carried out the Development Needs Analysis (DNA), completed the mandatory
+Research Integrity and Ethical Research training,2 attended any additional
+agreed training, devised a viable research proposal, made appropriate progress
+on ethical approval requirements prior to commencing any research, and a
+completion timetable approved by their supervisors;
+(c) must be able to confirm that the student’s work is of appropriate quality and
+standard, and the project is viable within the registration period, on the basis of
+draft chapters and/or evidence of data gathered; and
+(d) will have four possible recommendations – confirm as PhD; continue as a
+probationary PhD student; transfer to MPhil; exclusion.
+PR 2.5.4 Students not successful in receiving confirmation of PhD status may appeal against the
+recommendation under the procedures for Academic Appeals as defined in the chapter
+on Academic Appeals.
+PR 2.6 SUBMISSION OF THESIS
+PR 2.6.1 The decision to submit a thesis for examination is taken by the student, although the
+opinion of the supervisor should be considered.
+PR 2.6.2 A candidate shall make a declaration that the thesis is their own work and has not been
+submitted by this candidate in substantially the same form for the award of a higher
+degree elsewhere. Any sections of the thesis which have been published, or submitted
+for a higher degree elsewhere, shall be clearly identified. If the thesis is, in whole or in
+part, the result of joint research, a statement indicating the nature of the candidate’s
+contribution to that research shall be included, confirmed by either the supervisor(s), or
+the principal author of the material(s) accepted for publication.
+2 For the avoidance of doubt, a student cannot be confirmed as a PhD candidate without having completed
+both the Research Integrity and Ethical Research training.
+Version 1.1 9
+MARP 2025-26
+Postgraduate Research Regulations
+PR 2.6.3 A candidate shall also make a declaration that either: ethical approval has been granted
+for the research presented, or that ethical approval was confirmed as not being
+necessary for the research presented.
+PR 2.7 FORMAT OF THESIS
+PR 2.7.1 A thesis for the degree of PhD shall not normally exceed 80,000 words (see Appendix 2
+for full details of specific material to be included and excluded within the word count).
+A candidate, with the support of their supervisor, may apply for exceptional permission
+to exceed the word limit, which approval may be granted by the body or officer with
+delegated authority from Senate.
+PR 2.7.2 The thesis shall be written in English. A candidate, with the support of their supervisor
+and Head of Department, may apply for exceptional permission to present the thesis in
+whole or in part in another language, and approval may be granted by the body or
+officer with delegated authority from Senate.
+PR 2.7.3 Where agreed, a candidate for the degree of PhD may submit the thesis in any of the
+following formats:
+(a) single volume written thesis;
+(b) multi-part thesis comprised of articles or papers; and
+(c) multimodal thesis comprised of written, and practical and/or creative elements.
+See Appendices 2 and 3 for further details and regulations relating to these formats.
+Note: having received agreement to submit with a specific format, a student cannot opt
+to subsequently switch between formats without having first secured further agreement
+from their academic department.
+PR 2.7.4 A copy of any thesis relating to the award of a research degree made by Lancaster
+University must be deposited with the University at the prescribed time. For details on
+the format of submission, see Appendix 2.
+PR 2.8 EXAMINATION
+PR 2.8.1 Examiners (including at least one External Examiner) shall be appointed by the body or
+officer with delegated authority from Senate on the nomination of the department(s)
+concerned (see PR 5: Appointment of Examiners (All Research Degrees)). Two External
+Examiners shall be appointed for theses submitted by candidates who qualify for
+remission of fees as members of staff, unless in exceptional circumstances the body or
+officer with delegated authority from Senate decides otherwise. The candidate's
+supervisor shall not act as an examiner.
+PR 2.8.2 Each examiner shall report independently on the thesis before the oral, or any other
+examination required by the examiners, takes place and submit the report to the
+University prior to the examination. All examiners shall participate in the oral
+examination. The examiners may, at their discretion, invite the student's supervisor to
+be present at the oral examination. After the oral examination, each examiner shall
+report on the examination and make a recommendation based on both the report on
+Version 1.1 10
+MARP 2025-26
+Postgraduate Research Regulations
+the thesis and on the evidence from the oral, and any other examinations that have
+taken place.
+PR 2.9 EXAMINATION OUTCOMES
+PR 2.9.1 The examiners shall make one of the following recommendations. Where a time period
+is specified for undertaking additional work on the thesis, this will commence from the
+date of notification of the decision by Student and Programme Administration.
+(a) That the degree of PhD be awarded immediately: a pass with no corrections.
+(b) That the degree of PhD be awarded immediately: a pass with very minor
+corrections, i.e. typographical or presentational corrections only. The candidate
+is to make the very minor corrections required within one month prior to
+submission of the final version of the thesis and there is no requirement for
+these to be approved by the internal or the external examiner.
+(c) That the degree of PhD be awarded subject to minor amendments being made
+within three months. ‘Minor amendments’ refers to e.g. a number of significant
+stylistic errors such as needing to clarify or rephrase points, or add/edit blocks of
+text. There will be no requirement to conduct further research or to undertake
+substantial further work. The amendments must be approved by the internal
+examiner. A second oral examination is not required.
+(d) That the degree of PhD be awarded subject to major amendments being made
+within six months: there is a requirement for significant further work, but there
+is not a requirement for a second oral examination. Changes may include, but
+are not limited to: the addition of substantial new material; rewriting and
+editing sections of the thesis; re-analysis of existing data. The amendments
+must be approved by either the internal examiner or the internal and the
+external examiner, as agreed by the examiners. A second oral examination is
+not required.
+(e) That the degree of PhD should not be awarded but that the candidate should be
+permitted to revise and resubmit the thesis within twelve months for the
+degree of PhD: the requirements for the degree of PhD have not been met.
+Changes may include, but are not limited to: extensive rewriting and editing
+sections of, or the whole of, the thesis; carrying out further research and/or
+experimental work. The revisions must be approved by both the internal and
+the external examiner. There is an expectation that a second viva will be held
+but the examiners can exceptionally discount this where they are satisfied that it
+is not necessary.
+(f) That the degree of MPhil be awarded immediately: the requirements for the
+degree of PhD have not been met but the requirements for the MPhil have been
+met, with no or very minor corrections, i.e. typographical or presentational
+corrections only. The candidate is to make very minor corrections, if required,
+within one month prior to submission of the final version of the thesis and there
+is no requirement for these to be approved by the internal or the external
+examiner.
+Version 1.1 11
+MARP 2025-26
+Postgraduate Research Regulations
+(g) That the degree of MPhil be awarded subject to minor amendments being made
+within three months: the requirements for the degree of PhD have not been
+met but the requirements for the MPhil have been met with minor
+amendments, e.g. a number of significant stylistic errors such as needing to
+clarify or rephrase points, or add/edit blocks of text. There will be no
+requirement to conduct further research or to undertake substantial further
+work. The amendments must be approved by the internal examiner. A second
+oral examination is not required.
+(h) That the candidate be permitted to revise and resubmit the thesis within twelve
+months for the degree of MPhil: the requirements for the degree of PhD have
+not been met but the candidate is permitted to submit a revised thesis for the
+lower award. Changes may include, but are not limited to: extensive editorial
+corrections and revisions; rewriting a part, parts, or the whole of the thesis;
+carrying out further research or experimental work. The revisions must be
+approved by both the internal and the external examiner. The examiners will
+determine if a second oral examination is required.
+PR 2.9.2 Outcomes (f), (g) and (h) above are not available for the DClinPsy and MD programmes.
+PR 2.9.3 Students may appeal against the outcome of the examination under the procedures for
+Academic Appeals as defined in the chapter on Academic Appeals.
+PR 2.9.4 Students given the opportunity to make corrections or amendments shall normally be
+given only one opportunity to make the changes required as specified by the examiners.
+PR 2.9.5 Examiners' reports and recommendations will be considered by the body or officer with
+delegated authority from Senate on behalf of the Committee of the Senate.
+PR 2.10 DISAGREEMENT BETWEEN EXAMINERS ON FIRST SUBMISSION OF THESIS
+PR 2.10.1 If there is no unanimity among the recommendations from the examiners of the thesis
+at the first submission the following procedure shall be adopted.
+PR 2.10.2 In the first instance, Student and Programme Administration shall consult with the
+examiners to see whether an agreed recommendation can be drawn up.
+PR 2.10.3 If agreement is not achieved, the body or officer with delegated authority from Senate
+may at their discretion appoint one or more additional external examiners or may
+determine other action as appropriate. Any additional examiners shall be informed that
+the examiners appointed initially have submitted conflicting recommendations but shall
+not be told the identity of these examiners nor their specific recommendations. Unless
+the additional examiners recommend that the candidate pass, a further oral
+examination must be held. The student's supervisor or the departmental tutor for
+research students shall attend this examination as an observer.
+PR 2.10.4 A recommendation (see the list of recommendations at PR 2.9.1) based on the reports
+from all of the examiners shall be made by the body or officer with delegated authority
+from Senate to the Committee of Senate. If this recommendation is for re-submission of
+the thesis it shall include the nomination of the panel of examiners for the resubmitted
+thesis.
+Version 1.1 12
+MARP 2025-26
+Postgraduate Research Regulations
+PR 2.11 RESUBMISSION
+Resubmission for the degree of MPhil
+PR 2.11.1 After examination of the resubmitted thesis the examiners shall, after holding an oral
+examination if they wish, recommend one of the following recommendations:
+(a) That the degree of MPhil be awarded immediately: a pass, with no or very
+minor corrections, i.e. typographical or presentational corrections only. The
+candidate is to make very minor corrections, if required, within one month prior
+to submission of the final version of the thesis and there is no requirement for
+these to be approved by the internal or the external examiner.
+(b) That no award be made.
+A student is not entitled to a second oral defence; this is at the discretion of the
+examiners.
+PR 2.11.2 Students may appeal against the outcome of the examination under the procedures for
+Academic Appeals as defined in the chapter on Academic Appeals.
+Resubmission for the degree of PhD
+PR 2.11.3 After examination of the resubmitted thesis, which may include a second oral
+examination if the examiners require it, the examiners shall make one of the
+recommendations (a), (f), (g) and (h) listed at PR 2.9.1, except that under (h) the time
+limit is six months rather than twelve months; or they shall recommend that no award
+be made.
+A student is not entitled to a second oral defence; this is at the discretion of the
+examiners.
+PR 2.11.4 Students may appeal against the outcome of the examination under the procedures for
+Academic Appeals as defined in the chapter on Academic Appeals.
+Resubmission for the degree of DClinPsy/MD
+PR 2.11.5 After examination of the resubmitted thesis, which may include a second oral
+examination if the examiners require it, the examiners shall make one of the following
+recommendations:
+(a) That the degree be awarded immediately: a pass with no or very minor
+corrections, i.e. typographical or presentational corrections only. The candidate
+is to make very minor corrections, if required, within one month prior to
+submission of the final version of the thesis and there is no requirement for
+these to be approved by the internal/external examiners.
+(b) That no award be made.
+A student is not entitled to a second oral defence; this is at the discretion of the
+examiners.
+Version 1.1 13
+MARP 2025-26
+Postgraduate Research Regulations
+PR 2.11.6 Students may appeal against the outcome of the examination under the procedures for
+Academic Appeals as defined in the chapter on Academic Appeals.
+PR 2.12 DISAGREEMENT BETWEEN EXAMINERS UPON THESIS RESUBMITTED
+PR 2.12.1 The body or officer with delegated authority from Senate shall consider each case where
+the examiners of a resubmitted thesis are unable (after attempts have been made to
+reconcile their views) to reach an agreed recommendation. They shall have discretion to
+determine an appropriate course of action, including if necessary the appointment of an
+additional external examiner.
+PR 2.12.2 The following procedure shall be followed when the body or officer with delegated
+authority from Senate appoints an additional examiner for a resubmitted thesis.
+PR 2.12.3 The additional examiner shall make an independent report on the resubmitted thesis.
+PR 2.12.4 If the additional external examiner or the candidate so requests, an oral examination
+shall be arranged after that examiner has submitted their report on the thesis. The
+previous examiners of the thesis shall not be invited to attend but the student's
+supervisor shall be required to be present as an observer.
+PR 2.12.5 The additional external examiner shall make one of the recommendations listed at PR
+2.11.3, taking into account the candidate's performance at an oral examination if one
+has been held.
+PR 2.12.6 The body or officer with delegated authority from Senate shall consider the reports of all
+examiners on the resubmitted thesis, the examiners' final recommendations and the
+results of any oral examination held and, in the light of these, shall decide its
+recommendation to the Committee of the Senate.
+PR 3 MPHIL REGULATIONS
+PR 3.1 CRITERIA FOR THE AWARD
+PR 3.1.1 The degree shall be awarded on the examination of a thesis embodying the results of
+the candidate's research, and on an oral examination. The work for the degree shall
+consist mainly of research and directed study; the candidate may in addition be required
+to undertake coursework, and the award of the degree may be conditional on
+satisfactory performance in this coursework.
+PR 3.1.2 A successful candidate for the degree of MPhil shall display a convincing grasp of the
+techniques of research appropriate to the field of study on a scale which can be
+completed during two years, or at most three years, of full-time study or equivalent.
+The thesis embodying the results of the research shall demonstrate evidence of
+originality, at least in the exercise of an independent critical faculty, and shall achieve a
+high standard of competence in argument and presentation. The thesis shall comply
+with the requirements for the form, submission and deposit of theses.
+Version 1.1 14
+MARP 2025-26
+Postgraduate Research Regulations
+PR 3.2 REGISTRATION PERIOD
+PR 3.2.1 For full-time students the minimum period of registration for the degree shall normally
+be twenty-four calendar months from the date of commencement of studies to the date
+of submission of the thesis. The maximum period of registration shall be 36 months.
+Full-time students may, with the approval of the body or officer with delegated
+authority from Senate or nominee, be permitted to register for a minimum period of less
+than twenty-four months but in no case less than twelve months. Full-time students
+may, with the approval of Student and Programme Administration, be permitted to
+extend registration for a further twelve months. Normally an extension beyond the
+maximum period of registration will not be permitted.
+PR 3.2.2 For part-time students the minimum period of registration for the degree shall normally
+be thirty-six calendar months from the date of commencement of studies to the date of
+submission of the thesis. The maximum period of registration shall be 60 months. Part-
+time students may, with the approval of the body or officer with delegated authority
+from Senate or nominee, be permitted to register for a minimum period of less than
+thirty-six months but in no case less than twenty-four months. Part-time students may,
+with the approval of Student and Programme Administration, be permitted to extend
+registration for a further twelve months. Normally an extension beyond the maximum
+period of registration will not be permitted.
+PR 3.2.3 For students registered as full-time the maximum period shall be thirty-six months and
+for those registered as part-time the maximum period shall be sixty months. The Head
+of the admitting Department may recognise all or part of a period of study for the
+degree of LLM, MA, MBA, MMus, MSc, MRes, or PhD in this University, or for an
+appropriate higher degree in another University, as counting towards the total period
+for the degree of MPhil. Such recognition shall not, however, be granted if the higher
+degree has already been awarded.
+PR 3.2.4 Where a student changes mode of study, the duration of their remaining study will be
+calculated using a full-time study to part-time study ratio of 1:1.5, rounding up to the
+nearest month.
+PR 3.2.5 In the event of an extension being refused, PGR students have the right to appeal to the
+relevant faculty Associate Dean with a final appeal to the University Academic Dean.
+PR 3.3 SCHEDULE OF WORK
+PR 3.3.1 Upon registration each student will be assigned a minimum of one main supervisor, who
+will normally be part of a supervisory team.
+PR 3.3.2 The nature of the student’s research programme should be on a scale which should be
+completed during two years, or at most three years, of full-time study or equivalent.
+PR 3.3.3 The supervisor(s) and student should agree a realistic completion timetable which will
+enable the student to produce a thesis of the required standard within the stipulated
+time-scale. The supervisor(s) and student will agree milestones throughout this schedule
+against which progress will be monitored.
+Version 1.1 15
+MARP 2025-26
+Postgraduate Research Regulations
+PR 3.3.4 The student will also determine and confirm with their supervisor(s) whether ethical
+approval will be required before commencing research, in discussion with their Faculty
+Ethics Officer where needed. In instances where approval is not required, this must also
+be explicitly confirmed in writing and recorded.
+PR 3.4 PROGRESSION REQUIREMENTS
+Year 1 (year 2 part-time)
+PR 3.4.1 Within the first six months all research students must fulfil the following, or an
+equivalent process:
+(a) attend an approved induction programme;
+(b) carry out an approved development needs analysis (DNA) or equivalent in
+consultation with their supervisors, and keep a record of agreed follow-up to the
+DNA;
+(c) take the appropriate research training activities, informed by the DNA as guided
+by their supervisors;
+(d) complete a research proposal or plan of work which the supervisors approve as
+appropriate and viable;
+(e) agree a projected completion timetable with their supervisors; and
+(f) any additional requirements to meet the particular needs of the individual
+awards.
+PR 3.4.2 Any research student who does not demonstrate satisfactory progress during the first six
+months full-time should be: carefully monitored and supported, informed about any
+reasons for concern, set objectives, and their progress reviewed before the twelve
+month deadline. If their progress is still not satisfactory they will be excluded from the
+programme. Students who have been excluded for failing to make satisfactory progress
+may appeal against the exclusion under the procedures for Academic Appeals as defined
+in the chapter on Academic Appeals.
+PR 3.4.3 Where work is deemed to be of sufficient merit a recommendation may be put to the
+body or officer with delegated authority from Senate that the student’s registration be
+transferred from MPhil to a doctoral programme in which case the transfer procedure
+will apply (see below).
+PR 3.5 SUBMISSION OF THESIS
+PR 3.5.1 The decision to submit a thesis for examination is taken by the student, although the
+opinion of the supervisor should be taken into account.
+PR 3.5.2 A candidate shall make a declaration that the thesis is their own work, and has not been
+submitted by this candidate in substantially the same form for the award of a higher
+degree elsewhere. Any sections of the thesis which have been published, or submitted
+for a higher degree elsewhere, shall be clearly identified. If the thesis is, in whole or in
+part, the result of joint research, a statement indicating the nature of the candidate’s
+Version 1.1 16
+MARP 2025-26
+Postgraduate Research Regulations
+contribution to that research shall be included, confirmed by either the supervisor(s), or
+the principal author of the material(s) accepted for publication.
+PR 3.5.3 A candidate shall also make a declaration that either: ethical approval has been granted
+for the research presented, or that ethical approval was confirmed as not being
+necessary for the research presented.
+PR 3.6 FORMAT OF THESIS
+PR 3.6.1 A thesis for the degree of MPhil shall not normally exceed 60,000 words (see Appendix 2
+for full details of specific material to be included and excluded within the word count). A
+candidate, with the support of their supervisor, may apply for exceptional permission to
+exceed the word limit, which approval may be granted by the body or officer with
+delegated authority from Senate.
+PR 3.6.2 The thesis shall be written in English. A candidate, with the support of their supervisor
+and Head of Department, may apply for exceptional permission to present the thesis in
+whole or in part in another language, which approval may be granted by the body or
+officer with delegated authority from Senate
+PR 3.6.3 A candidate for the degree of MPhil may apply to submit the thesis in a format other
+than the single volume format; one such example being a series of related articles
+suitable for journal publication - see Appendix 1 and Appendix 3 for further details on
+this format). Such an application shall:
+(a) be in accordance with the department’s published guidelines on thesis
+submissions, which must have been approved in advance by the faculty
+committee responsible for postgraduate provision;
+(b) be submitted as part of the procedure for the Recommendation for the
+Appointment of Examiners for Research Degrees. A candidate may make only
+one such application, which shall be made no earlier than twelve months after
+initial registration for full-time MPhil (twenty-four months part-time), and must
+be made prior to the appointment of examiners;
+(c) be supported by the supervisor(s) and Head of Department to confirm:
+(i) the design of the thesis format;
+(ii) that the thesis format is more appropriate for the research project; and
+(iii) that the applicant is distinguished by their intellectual capacity and
+possession of the skills necessary to take full advantage of the thesis
+format.
+Note: supervising departments are encouraged to seek, where practicable, the
+advice of the External Examiner(s) with respect to the thesis format proposed;
+(d) be approved by the body and officer with delegated authority from Senate (with
+the exception of the format which comprises a series of related articles suitable
+for journal publication). Such approval shall be granted only in advance of thesis
+Version 1.1 17
+MARP 2025-26
+Postgraduate Research Regulations
+submission. The withholding of approval shall be deemed an academic
+judgement.
+PR 3.6.4 A copy of any thesis relating to the award of a research degree made by Lancaster
+University must be deposited with the University at the prescribed time. For details on
+the format of submission see Appendix 2.
+PR 3.7 EXAMINATION
+PR 3.7.1 Examiners (including at least one external examiner) shall be appointed by the body or
+officer with delegated authority from Senate on the nomination of the department(s)
+concerned. Two external examiners shall be appointed for theses submitted by
+candidates who qualify for remission of tuition fees as members of staff, except where
+the body and officer with delegated authority from Senate determines otherwise. The
+candidate's supervisor shall not act as an examiner.
+PR 3.7.2 Each examiner shall make an independent report on the thesis. These reports shall be
+written before any oral or any other examination required by the examiners takes place
+and submitted to Student and Programme Administration prior to the examination. All
+examiners shall participate in any oral examination. Each examiner shall then make a
+recommendation based on both the report on the thesis and on the evidence from the
+oral examination. The examiners may at their discretion invite the student's supervisor
+to be present at the oral examination.
+PR 3.7.3 An oral examination is required. The examiners shall have discretion whether or not to
+hold an oral examination on a resubmitted thesis.
+PR 3.8 EXAMINATION OUTCOMES
+PR 3.8.1 The examiners shall make one of the following recommendations:
+(a) That the degree of MPhil be awarded immediately with no or very minor
+corrections, i.e. typographical or presentational corrections only. The candidate
+is to make very minor corrections, if required, within one month prior to
+submission of the final version of the thesis and there is no requirement for
+these to be approved by the internal/external examiners.
+(b) That the degree of MPhil be awarded subject to minor corrections being made
+within three months. ‘Minor corrections’ refers to, e.g. a number of significant
+stylistic errors such as needing to clarify or rephrase points, or add/edit blocks of
+text. There will be no requirement to conduct further research or to undertake
+substantial further work. The corrections must be approved by the internal
+examiner. A second oral examination is not required.
+(c) That the degree of MPhil be awarded subject to major corrections being made
+within six months: there is a requirement for significant further work, but there
+is not an automatic requirement for a second oral examination. Changes may
+include, but are not limited to: the addition of substantial new material;
+rewriting and editing sections of the thesis; re-analysis of existing data. The
+corrections must be approved by either the internal examiner or the internal
+and external examiner, as agreed by the examiners. There is an expectation that
+Version 1.1 18
+MARP 2025-26
+Postgraduate Research Regulations
+a second viva will be held but the examiners can exceptionally discount this
+where they are satisfied that it is not necessary.
+(d) That the degree of MPhil should not be awarded but that the candidate should
+be permitted to revise and resubmit the thesis within twelve months for the
+degree of MPhil: the requirements for the degree of MPhil have not been met.
+Changes may include, but are not limited to: extensive rewriting and editing
+sections of, or the whole of, the thesis; carrying out further research and/or
+experimental work. The revisions must be approved by both the internal and
+the external examiner. There is an expectation that a second viva will be held
+but the examiners can exceptionally discount this where they are satisfied that it
+is not necessary.
+(e) That no award be made.
+PR 3.8.2 The award of MPhil with Distinction may be awarded.
+PR 3.8.3 Students may appeal against the outcome of the examination under the procedures for
+Academic Appeals as defined in the chapter on Academic Appeals.
+PR 3.8.4 Students given the opportunity to make corrections or amendments shall normally be
+given only one opportunity to make the changes required as specified by the examiners.
+PR 3.8.5 Examiners' reports and recommendations will be considered by the body and officer
+with delegated authority from Senate on behalf of the Committee of the Senate.
+PR 3.9 DISAGREEMENT BETWEEN EXAMINERS ON FIRST SUBMISSION OF THESIS
+PR 3.9.1 If there is no unanimity among the recommendations from the examiners of the thesis
+at the first submission the following procedure shall be adopted.
+PR 3.9.2 In the first instance, the Head of Assessment, Awards and Timetabling shall consult with
+the examiners to see whether an agreed recommendation can be drawn up.
+PR 3.9.3 If agreement is not achieved, the body and officer with delegated authority from Senate
+may at their discretion appoint one or more additional external examiners or may
+determine other action as appropriate. Any additional examiners shall be informed that
+the examiners appointed initially have submitted conflicting recommendations but shall
+not be told the identity of these examiners nor their specific recommendations. Unless
+the additional examiners recommend that the candidate pass, a further oral
+examination must be held. The student's supervisor or the departmental tutor for
+research students shall attend this examination as an observer.
+PR 3.9.4 A recommendation (see recommendations listed at PR 3.8.1) based on the reports from
+all of the examiners shall be made by the body or officer with delegated authority from
+Senate to the Committee of the Senate. If this recommendation is for re-submission of
+the thesis it shall include the nomination of the panel of examiners for the resubmitted
+thesis.
+Version 1.1 19
+MARP 2025-26
+Postgraduate Research Regulations
+PR 3.10 RESUBMISSION
+PR 3.10.1 The examiners shall, after holding an oral examination if they wish, make one of the
+following recommendations:
+(a) That the degree of MPhil be awarded immediately with no or very minor
+corrections, i.e. typographical or presentational corrections only. The candidate
+is to make very minor corrections, if required, within one month prior to
+submission of the final version of the thesis and there is no requirement for
+these to be approved by the internal or the external examiner.
+(b) That no award be made.
+A student is not entitled to a second oral defence; this is at the discretion of the
+examiners.
+PR 3.10.2 Students may appeal against the outcome of the examination under the procedures for
+Academic Appeals as defined in the chapter on Academic Appeals.
+PR 3.11 DISAGREEMENT BETWEEN EXAMINERS UPON THESIS RESUBMITTED
+PR 3.11.1 The body and officer with delegated authority from Senate shall consider each case
+where the examiners of a resubmitted thesis are unable (after attempts have been
+made to reconcile their views) to reach an agreed recommendation. They shall have
+discretion to determine an appropriate course of action, including if necessary the
+appointment of an additional external examiner.
+PR 3.11.2 The following procedure shall be followed when the body or officer with delegated
+authority from Senate appoints an additional examiner for a resubmitted thesis.
+PR 3.11.3 The additional examiner shall make an independent report on the resubmitted thesis.
+PR 3.11.4 If the additional external examiner or the candidate so requests, an oral examination
+shall be arranged after that examiner has submitted their report on the thesis. The
+previous examiners of the thesis shall not be invited to attend but the student's
+supervisor shall be required to be present as an observer.
+PR 3.11.5 The additional external examiner shall make one of the recommendations listed at PR
+3.10.1, taking into account the candidate's performance at an oral examination if one
+has been held.
+PR 3.11.6 The body or officer with delegated authority from Senate shall consider the reports of all
+examiners on the resubmitted thesis, the examiners' final recommendations and the
+results of any oral examination held and, in the light of these, shall decide its
+recommendation to the Committee of the Senate.
+PR 3.12 TRANSFER OF REGISTRATION FROM MPHIL TO PHD
+PR 3.12.1 Students who are initially registered for an MPhil and who wish to transfer their
+registration to PhD shall follow the established procedures. Departments and faculties
+shall publish clear information for students on these procedures for upgrading from
+Version 1.1 20
+MARP 2025-26
+Postgraduate Research Regulations
+MPhil to PhD. A student supervised in more than one department shall follow the
+procedures used by the administrating department.
+PR 3.12.2 The procedures shall include details of:
+(a) membership of the panel;
+(b) volume, level and type of work to be submitted as evidence to the panel;
+(c) normal expected period in which a student should expect to transfer their
+registration, bearing in mind the mode of study, periods of suspension and any
+other relevant factors; and
+(d) number of times a student may attempt to transfer their registration (normally a
+maximum of two attempts).
+PR 3.12.3 The transfer of registration panel:
+(a) must normally be held no later than eighteen months after initial registration
+(twenty-four months for part-time); if the panel is held within twelve months of
+registration then the report of the panel should replace the first year’s annual
+progress report. Where the student’s transfer panel takes place more than
+twenty-four months (thirty-six months part-time) after initial registration they
+are liable for fees for a further twelve months from the date of the panel;
+(b) must see and approve evidence that the student has attended induction, carried
+out the Development Needs Analysis (DNA), attended the agreed research
+training, has a viable research proposal, and has a completion timetable
+approved by their supervisors;
+(c) must be able to confirm that the student’s work is of appropriate quality and
+standard, and the project is viable within the registration period, on the basis of
+draft chapters and/or evidence of data gathered; and
+(d) will have two possible recommendations – transfer to PhD registration status;
+continue as a probationary MPhil student.
+PR 3.12.4 Students who are not permitted to transfer to PhD may appeal against the
+recommendation under the procedures for Academic Appeals as defined in the chapter
+on Academic Appeals.
+PR 4 LLM/MA/MSC BY RESEARCH REGULATIONS
+PR 4.1 CRITERIA FOR THE AWARD
+PR 4.1.1 The degree shall be awarded on the examination of a dissertation embodying the results
+of the candidate’s research. An oral examination will also be required. The work for the
+degree shall consist mainly of research and directed study; the candidate may in
+addition be required to undertake coursework, and the award of the degree may be
+conditional on satisfactory performance in this coursework.
+Version 1.1 21
+MARP 2025-26
+Postgraduate Research Regulations
+PR 4.1.2 A successful candidate for the degree of LLM/MA/MSc by Research shall display a
+convincing grasp of the techniques of research appropriate to the field of study on a
+scale which can be completed during one year, or at most two years, of full-time study
+or equivalent. The dissertation embodying the results of the research shall demonstrate
+evidence of originality, at least in the exercise of an independent critical faculty, and
+shall achieve a good standard of competence in argument and presentation. The
+dissertation shall comply with the requirements for the form, submission and deposit of
+MPhil theses except that the dissertation should not normally exceed 35,000 words
+(including any footnotes and appendices but excluding the bibliography.
+PR 4.1.3 All candidates for the degree of LLM/MA/MSc by Research will also determine and
+confirm with their supervisor(s) whether ethical approval will be required before
+commencing research, in discussion with their Faculty Ethics Officer where needed. In
+instances where approval is not required, this must also be explicitly confirmed in
+writing and recorded.
+PR 4.2 REGISTRATION PERIOD
+PR 4.2.1 For full-time students the minimum period of registration for the degree shall normally
+be twelve calendar months from the date of commencement of studies to the date of
+submission of the dissertation. Full-time students may, with the approval of Student
+and Programme Administration, be permitted to extend registration for a further twelve
+months. Normally an extension beyond that period will not be permitted.
+PR 4.2.2 For part-time students the minimum period of registration for the degree shall normally
+be twenty-four calendar months from the date of commencement of studies to the date
+of submission of the dissertation. Part-time students may, with the approval of the body
+or officer with delegated authority from Senate or nominee, be permitted to register for
+a minimum period of less than twenty-four months but in no case less than twelve
+months. Part-time students may, with the approval of Student and Programme
+Administration, be permitted to extend registration for a further twelve months.
+Normally an extension beyond that period will not be permitted.
+PR 4.2.3 For students registered as full-time the maximum period shall be twenty-four months
+and for those registered as part-time the maximum period shall be thirty-six months.
+Any extension of the maximum period must be approved by Student and Programme
+Administration after consideration of evidence of the student’s progress submitted by
+the department concerned. For both full- and part-time students the absolute
+maximum period shall not exceed forty-eight months. The body or officer with
+delegated authority from Senate may recognise all or part of a period of study for the
+degree of LLM, MA, MBA, MMus, MSc, MRes, MPhil, or PhD in this University, or for an
+appropriate degree in another university, as counting towards the total period for the
+degree of MA/MSc by Research. Such recognition shall not, however, be granted if the
+higher degree has already been awarded.
+PR 4.2.4 In the event of an extension being refused, PGR students have the right to appeal to the
+relevant faculty Associate Dean with a final appeal to the University Academic Dean.
+Version 1.1 22
+MARP 2025-26
+Postgraduate Research Regulations
+PR 4.3 SUBMISSION OF DISSERTATION
+PR 4.3.1 A candidate must make a declaration that the dissertation is their own work, and has
+not been submitted in substantially the same form for the award of a higher degree
+elsewhere. Any sections of the dissertation which have been published, for a higher
+degree elsewhere, shall be clearly identified. If the dissertation is the result of joint
+research, a statement indicating the nature of the candidate’s contribution to that
+research, confirmed by the supervisor(s), shall be included.
+PR 4.3.2 A candidate shall also make a declaration that either: ethical approval has been granted
+for the research presented, or that ethical approval was confirmed as not being
+necessary for the research presented.
+PR 4.4 CONSIDERATION OF RESULTS BY BOARDS OF EXAMINATION
+PR 4.4.1 Examiners (including at least one External Examiner) shall be appointed by the body and
+officer with delegated authority from Senate on the nomination of the department(s)
+concerned. Two External Examiners shall be appointed for a dissertation submitted by a
+candidate who qualifies for remission of tuition fees as a member of staff, except where
+the body or officer with delegated authority from Senate determines otherwise. The
+candidate’s supervisor shall, where practicable, not act as an examiner. When a
+supervisor is appointed as an examiner, an additional examiner (internal or external)
+shall be appointed unless, in exceptional circumstances, the body or officer with
+delegated authority from Senate decides otherwise.
+PR 4.4.2 Each examiner shall make an independent report in the dissertation. These reports shall
+be written before any oral or any other examination required by the examiners takes
+place and submitted to Student and Programme Administration prior to examination.
+All examiners shall participate in any oral examination. Each examiner shall then make a
+recommendation based on both the report on the dissertation and on the evidence from
+any examinations which may have been held. The examiners may at their discretion
+invite the student’s supervisor to be present at any oral examination.
+PR 4.4.3 An oral examination is required.
+PR 4.4.4 Following the oral examination, the examiners shall make one of the following
+recommendations:
+(a) That the degree of LLM/MA/MSc by Research be awarded immediately with no
+or very minor corrections, i.e. typographical or presentational corrections only.
+The candidate is to make very minor corrections, if required, within one month
+prior to submission of the final version of the thesis and there is no requirement
+for these to be approved by the internal or the external examiner.
+(b) That the degree of LLM/MA/MSc by Research be awarded subject to minor
+corrections being made within one month. ’Minor corrections’ refers to e.g. a
+number of significant stylistic errors such as needing to clarify or rephrase
+points, or add/edit blocks of text. There will be no requirement to conduct
+further research or to undertake substantial further work. The corrections must
+be approved by the internal examiner. A second oral examination is not
+required.
+Version 1.1 23
+MARP 2025-26
+Postgraduate Research Regulations
+(c) That the degree of LLM/MA/MSc by Research be awarded subject to major
+corrections being made within three months: there is a requirement for
+significant further work, but there is not an automatic requirement for a second
+oral examination. Changes may include, but are not limited to: the addition of
+substantial new material; rewriting and editing sections of the dissertation; re-
+analysis of existing data. The corrections must be approved by either the
+internal examiner or the internal and external examiner, as agreed by the
+examiners. There is an expectation that a second viva will be held but the
+examiners can exceptionally discount this where they are satisfied that it is not
+necessary.
+(d) That the degree of LLM/MA/MSc by Research should not be awarded but that
+the candidate should be permitted to revise and resubmit the dissertation
+within six months for the degree of LLM/MA/MSc by Research: the
+requirements for the degree of LLM/MA/MSc by Research have not been met.
+Changes may include, but are not limited to: extensive rewriting and editing
+sections of, or the whole of, the thesis; carrying out further research and/or
+experimental work. The revisions must be approved by both the internal and
+the external examiner. There is an expectation that a second viva will be held
+but the examiners can exceptionally discount this where they are satisfied that it
+is not necessary.
+(e) That no award be made.
+PR 4.4.5 The degree of LLM/MA/MSc by Research may be awarded with Distinction.
+PR 4.4.6 Following resubmission, the examiners shall recommend either:
+(a) That the degree of LLM/MA/MSc by Research be awarded immediately: a pass,
+with no or very minor corrections, i.e. topographical or presentational
+corrections only. The candidate is to make very minor corrections, if required,
+within one month prior to submission of the final version of the dissertation and
+there is no requirement for these to be approved by the internal/external
+examiners.
+(b) That no award be made.
+PR 4.4.7 Examiners’ reports and recommendations will be considered by the body or officer with
+delegated authority from Senate.
+PR 4.4.8 Students may appeal against the outcome of the examination under the procedures for
+Academic Appeals as defined in the chapter on Academic Appeals.
+PR 4.4.9 In the case of a disagreement between examiners a decision (see recommendations
+listed at PR 4.4.4) will be taken by the body or officer with delegated authority from
+Senate. If this decision confirms the recommendation that no degree be awarded the
+student may appeal under the Academic Appeals procedures as defined in the chapter
+on Academic Appeals.
+Version 1.1 24
+MARP 2025-26
+Postgraduate Research Regulations
+PR 5 APPOINTMENT OF EXAMINERS (ALL RESEARCH DEGREES)
+PR 5.1 GENERAL REQUIREMENTS
+PR 5.1.1 All research students, whether studying towards the MPhil or PhD, submit a thesis for
+examination which is assessed by examiners appointed specifically according to the
+student’s area of study. As well as the assessment of the work itself, all PhD, MPhil and
+MA/MSc by Research students undergo an oral examination.
+PR 5.1.2 There shall always be at least one internal examiner and one external examiner. If a
+student has had a connection with the department or university beyond that of being a
+research student, i.e. as a member of staff or a research assistant, then a second
+external examiner is required. If a suitable internal examiner cannot be found or if only
+the supervisor would be suitable, then a second external examiner would also be
+required.
+PR 5.2 EXTERNAL EXAMINERS: ELIGIBILITY AND APPOINTMENT
+PR 5.2.1 The external examiner shall normally be a senior academic from another institution
+qualified to assess the thesis within its own field and to compare its quality with work of
+MPhil/PhD standard at other British universities although where appropriate an
+examiner from outside the university sector may be appointed.
+PR 5.2.2 All external examiner(s) shall:
+(a) be competent in the area of work being examined;
+(b) be experienced in research, including having published;
+(c) be experienced in the examination of research students.
+PR 5.2.3 Where it is deemed to be appropriate to appoint an examiner from outside the
+university sector, the person nominated must have an understanding of the examination
+process, and if they have not previously examined a research student, then the internal
+examiner must be widely experienced as an examiner.
+PR 5.2.4 The University shall appoint appropriate external examiners on the nomination of heads
+of departments and subject to approval by the body or officer with delegated authority
+from Senate on behalf of the Committee of Senate.
+PR 5.3 INTERNAL EXAMINERS: ELIGIBILITY AND APPOINTMENT
+PR 5.3.1 Internal examiners shall be members of staff from either the same department or an
+area cognate to the student’s field of research. Where the internal examiner is not an
+expert in the precise field of research they shall be acquainted with the broad area
+within which it falls. In addition, the internal examiner should normally hold a degree at
+least equivalent to that for which the student is being examined, and should be
+experienced in research. Lancaster University Guidance for the Examination of Research
+Degrees is available online. The Guidance confirms that the internal examiner must be
+and be seen to be independent; and thus wherever practicable they should not have
+Version 1.1 25
+MARP 2025-26
+Postgraduate Research Regulations
+played any significant role in either the supervision of the student or the assessment of
+the student during their studies.
+PR 5.4 CONFLICTS OF INTEREST
+PR 5.4.1 The student’s supervisor should not normally act as the internal examiner. If the
+supervisor has to act as internal examiner, then an additional examiner (internal or
+external) shall be appointed.
+PR 5.4.2 An external examiner shall not normally have any conflict of interest when appointed.
+Examples of conflicts of interest to avoid include external examiners who:
+(a) have had any previous specific contact with the student;
+(b) have been a former member of Lancaster’s staff or have had a formal
+connection with the student’s department within the last five years;
+(c) have been a student of Lancaster University or one of its collaborative partners
+within the last five years;
+(d) have examined more than four Lancaster University research students within
+the last five years;
+(e) be a close relative or be otherwise closely connected with any other party to the
+examination;
+(f) have co-authored or held a research grant with a supervisor of the student being
+examined within the last five years.
+Where a department identifies circumstances which might be perceived to be a conflict
+of interest, they are encouraged to contact their Quality Assurance and Enhancement
+Manager for further advice.
+PR 6 POSTHUMOUS AWARDS (PHD AND MPHIL AND MASTERS BY
+RESEARCH)
+PR 6.1 A recommendation may be made to the body or officer with delegated authority from
+Senate for the award of a posthumous degree to PhD, MPhil and Masters by Research
+candidates.
+PR 6.2 If the candidate died after the thesis had been submitted but before the oral
+examination had taken place the following procedures should be followed:
+(a) Examiners must be nominated and the thesis assessed in the usual way.
+(b) The Examiners are required to report independently on the thesis and submit
+their reports to the University.
+(c) The supervisor/s and other members of the supervisory team are required to
+confirm that the work is the candidate’s own.
+Version 1.1 26
+MARP 2025-26
+Postgraduate Research Regulations
+(d) The Examiners, on the basis of the evidence available and their judgement on
+the standard of the thesis and the work represented therein, shall make one of
+the following recommendations:
+(i) that the degree of PhD be awarded;
+(ii) that the degree of MPhil be awarded (PhD and MPhil candidates);
+(iii) that the degree of Masters by Research be awarded
+(iv) that no award be made.
+(e) No corrections need be made to the thesis and it should be marked as having
+been assessed posthumously.
+(f) The Examiners' reports and recommendations will then be considered by the
+body or officer with delegated authority from Senate, on behalf of the
+Committee of the Senate, who shall decide upon the outcome.
+PR 6.3 If the candidate died after the oral examination but before any required corrections or
+resubmission could be undertaken the following procedures should be followed:
+(a) The Examiners, on the basis of the oral examination and their judgement on the
+standard of the thesis and the work represented therein, shall make one of the
+following recommendations:
+(i) that the degree of PhD be awarded;
+(ii) that the degree of MPhil be awarded (PhD and MPhil candidates);
+(iii) that the degree of Masters by Research be awarded;
+(iv) that no award be made.
+(b) No corrections need be made to the thesis.
+(c) The Examiners’ reports and recommendations will then be considered by the
+body or officer with delegated authority from Senate, on behalf of the
+Committee of the Senate, who shall decide upon the outcome.
+Version 1.1 27
+MARP 2025-26
+Postgraduate Research Regulations
+APPENDICES TO THE POSTGRADUATE RESEARCH REGULATIONS
+APPENDIX 1: DEFINITIONS OF POSTGRADUATE RESEARCH AWARDS
+1. Doctor of Science or Letters (DSc/DLitt)
+An award available to Lancaster members of staff already in receipt of a doctorate award
+and who have demonstrated an outstanding contribution to the creation of knowledge.
+2. Doctoral level awards
+(a) Doctor of Philosophy (PhD)
+A doctoral-level award, normally assessed through a research thesis and oral
+defence. There are agreed variants to the body of work to be assessed:
+Single-volume written thesis
+A stand-alone written thesis based on original extended research, normally not
+exceeding 80,000 words in length.
+Multi-part thesis comprised of papers or articles
+A thesis based on original research and comprised of papers or articles suitable for
+publication. At the time of thesis deposit, the component parts of a multi-part thesis
+may be already submitted for publication, published, or accepted for publication.
+Multimodal thesis
+A thesis comprised of practical or creative elements together with an
+interdependent written component.
+European Doctorate
+A doctoral programme involving an element of study in another European Union
+country and study in another European language.
+Integrated PhD
+A doctorate comprising a mixture of taught elements and a dissertation.
+Professional PhD
+A doctoral-level qualification involving a thesis with formal professional engagement
+through placement or other arrangement.
+Version 1.1 28
+MARP 2025-26
+Postgraduate Research Regulations
+PhD by Publication
+A doctoral-level award comprising an assessment of a candidate’s published works
+within a related field of study.
+Specific assessment regulations for these awards are detailed in Appendix 3 of the
+Postgraduate Research Regulations.
+(b) Named doctorates
+Doctor of Clinical Psychology (DClinPsy)
+A professional doctorate offered in collaboration with the NHS which comprises
+taught elements with a dissertation and integrated supervised practical experience.
+Doctor of Engineering (EngD)
+A professional doctorate offered in nuclear engineering comprising a thesis with
+formal industrial placements.
+Doctor of Management (DMgt)
+A professional doctorate taken within the management profession comprising
+taught elements with a thesis.
+Doctor of Medicine (MD)
+A professional research doctoral programme taken within the medical profession.
+3. Masters level awards
+Master of Philosophy (MPhil)
+A Masters-level qualification undertaken entirely by research and assessed on the
+production of a thesis. The thesis will constitute a less substantial body of work than for the
+PhD in terms of either range, depth, originality of concept, or a mixture thereof. Work will
+be considered as to whether it has achieved a minimum Level 7 standard (Masters level) in
+the Framework for Higher Education Qualifications, although aspects will likely achieve the
+standard for doctoral work.
+Master of Arts or Science by Research (MA/MSc by Research)
+A Masters-level qualification in either an arts or science-based discipline undertaken entirely
+by research.
+Master of Research (MRes)
+A Masters-level qualification involving taught elements, a dissertation and formal research
+training.
+Version 1.1 29
+MARP 2025-26
+Postgraduate Research Regulations
+APPENDIX 2: THE FORM, SUBMISSION AND DEPOSIT OF THESES
+APPLICATION
+1. This appendix sets out the prescribed form for the submission for examination, and the
+deposit of the final version of research theses at Lancaster University. In the case of
+programmes where submission takes a form other than, or includes work additional to that
+described below, the presentation of submissions shall be subject to guidance prepared by
+the relevant faculty or department.
+2. The following rules shall apply to theses submitted for all doctoral degrees, the MPhil degree
+and the LLM/MA/MSc by Research degrees. They do not apply to dissertations submitted as
+part of a taught Masters programme (which includes the MRes). Students registered on
+taught Masters programmes are advised to seek early advice from their department on
+departmental requirements for the presentation of dissertations.
+FORM OF THE THESIS: LENGTH, PRESENTATION AND LAYOUT
+Standard length of thesis
+3. A thesis for the degree of LLM/MA/MSc by Research shall not normally exceed 35,000
+words. A thesis for the degree of MPhil shall not normally exceed 60,000 words. A thesis for
+the degree of PhD shall not normally exceed 80,000 words. Included in the word length are
+the main text of the thesis, footnotes3, data and text incorporated into diagrams, tables or
+figures. Excluded from the word length is the material preceding the main text of the thesis,
+(e.g. the title page, contents and abstract), citations, and the material following the main
+text of the thesis (e.g. the appendices, and the list of references and/or the bibliography).
+Candidates shall make a declaration of the word length of the thesis and confirm that it does
+not exceed the permitted maximum.
+4. Theses submitted for a PhD undertaken by coursework and thesis or in fulfilment of an
+Integrated PhD programme shall not normally exceed 70,000 words.
+5. For multimodal theses for the degrees of MPhil and PhD, word length requirements may
+vary from those specified above. Candidates are directed to departmental information for
+the multimodal thesis requirements for each programme.
+Exceptional permission to exceed the word length
+6. Candidates may apply for exceptional permission to exceed the maximum permitted word
+limit. An explanation as to why the thesis exceeds the permitted limit must be provided,
+and the case must be supported by the supervisor(s). Approval to exceed the limit is given
+by the body or officer with delegated authority from Senate. The Approval for Submission of
+an Over-length Thesis form should be completed and returned to Student and Programme
+Administration or by email to recordsenquiries@lancaster.ac.uk. If the thesis does exceed
+3 Footnotes are to be included in the word count if they contain substantive argument or commentary.
+Footnotes containing references and which substitute for a bibliography should be excluded from the word
+count.
+Version 1.1 30
+MARP 2025-26
+Postgraduate Research Regulations
+the permitted maximum, the declaration shall include confirmation that this has been
+formally approved.
+Language
+7. Theses shall be written in English save where, in exceptional circumstances, the Head of
+Department has given prior permission to present the thesis in another language and
+reported this approval to Student and Programme Administration. Citing references in
+another language is acceptable but where any material is quoted or where ideas or views
+are employed at length or in important respects to the argument of the thesis the student
+should provide or commission their own translation into English to sit alongside the original
+text.
+Presentation of the written thesis elements
+8. The written portion of the thesis should be presented as follows:
+• To allow for printing and annotations which might be undertaken by an examiner at the
+examination stage or if the candidate wishes to have a copy bound for their individual
+use:
+• The page size should be A4 (210 x 297 mm)
+• Margins - top, bottom and right-hand side, should be 25 mm. The left-hand side
+margin should be 35 mm
+• Line spacing should be 1.5
+• Formatting of the electronic document should adhere to the Lancaster University
+guidance on accessible documents and resources
+• Font size may be smaller for legends, e.g. figure and table titles, and footnotes
+• Candidates must avoid typographical, spelling and other minor errors. If any such errors
+are made, the candidate must correct them to the examiners' satisfaction before a
+degree is awarded.
+Order of the thesis
+9. The first page of the thesis should be the title page and should include:
+• the author’s full name, and, if desired, qualifications
+• the full title of the thesis, and the subtitle, if any
+• the total number of volumes if more than one and the number of the particular volume
+• the degree for which the thesis is submitted (phrasing to be used: This thesis is
+submitted for the degree of [xxxx])
+• the name of the University
+• the name of the department, school or centre in which the research was conducted
+• the month and year of submission
+Version 1.1 31
+MARP 2025-26
+Postgraduate Research Regulations
+• Candidates may also include the logo4 of a sponsoring organisation where this has been
+agreed with or requested by the sponsor.
+The title page should be followed by:
+• The abstract
+The abstract should not exceed 300 words and show the name of the author and the
+title of the thesis at the top. It should provide a synopsis of the thesis, stating the nature
+and scope of the work undertaken and the contribution made to knowledge in the
+subject treated
+• The table of contents
+The author shall provide as an integral part of the thesis a comprehensive list of
+contents, with page numbers, including: preliminary pages, titles of chapters, sections
+and subsections; the list of abbreviations/glossary; any appendices; the bibliography/list
+of references comprehending all materials cited or referred to in the whole submission
+• The list of tables (if required)
+• The list of figures (if required)
+• The acknowledgements page
+• The author’s declaration page (See Clause 13 below)
+• The main body of the text (divided into chapters, sections, etc)
+• The appendices (if required)
+• Glossary and/or abbreviations (if required)
+• The bibliography and/or references.
+Citing references
+10. A bibliographic reference should be given for every work, published or unpublished, in the
+work. The correct referencing style for the discipline should be applied consistently through
+the text. Candidates should seek advice from their supervisor on the most appropriate
+referencing system to use. The Library web page Referencing Guides includes general
+information and guidance on referencing styles.
+Pagination
+11. Pagination shall extend to the whole of each volume, including any diagrams, appendices, or
+other matter. Every page in the thesis (except the Title page) must be numbered. Page
+numbers should be centred at the bottom of each page. For material preceding the main
+body of the thesis, roman numerals may, if wished, be used. If chapters have numerical
+subdivisions these shall be recorded in the contents list.
+SUBMISSION OF THESES FOR EXAMINATION
+12. For examination, the candidate should submit one electronic copy in PDF format of the
+thesis, and any supplementary files, directly to pgrthesissubmissions@lancaster.ac.uk
+4 A logo in this context is a graphic mark, emblem, symbol or stylized name used to identify a sponsoring
+company or organization.
+Version 1.1 32
+MARP 2025-26
+Postgraduate Research Regulations
+13. Author’s declaration: Candidates must make a declaration that the thesis is their own work
+and has not been submitted in substantially the same form for the award of a higher degree
+elsewhere. Any sections of the thesis which have been published, or submitted for a higher
+degree elsewhere, shall be clearly identified. If the thesis is the result of joint research, a
+statement indicating the nature of the candidate's contribution to that research, confirmed
+by the supervisor(s), shall be included.
+DEPOSIT OF THE FINAL VERSION OF THE THESIS
+14. Following examination and viva, and the approval of any necessary amendments or revisions
+required by the examiner(s), the final version of the thesis should be uploaded as a PDF file
+to the PURE portal (further guidance is available via the Library’s Deposit Your Thesis
+webpage). A completed Thesis Access Declaration Form should be returned or emailed to
+Student and Programme Administration at the same time as the electronic copy is uploaded
+to PURE. Students may access a copy of the Thesis Access Declaration Form from the
+Deposit Your Thesis webpage. The Thesis Access Declaration Form grants the institutional
+repository a number of permissions and conditions with respect to online access to the
+work. If any subsidiary material owned by third party copyright holders has been included,
+candidates must declare on the form that, where necessary, permission has been sought
+and obtained to make it available in digital format; and, that included content does not
+break any UK law or infringe any third party’s copyright or other Intellectual Property Right.
+15. The degree shall not be awarded until: the thesis has been corrected or amended to the
+satisfaction of the examiners; a PDF file of the thesis has been uploaded to the PURE portal;
+a completed and signed copy of the Thesis Access Declaration Form has been forwarded to
+Student and Programme Administration.
+16. More detailed information and guidance on thesis deposit procedures following examination
+and notification that the thesis has fulfilled the criteria for the degree to be awarded is
+available from the Library’s webpage Deposit Your Thesis.
+EMBARGOING ACCESS TO THE THESIS
+17. The candidate, in consultation with the supervisor and Head of Department, shall instruct
+Student and Programme Administration if the thesis is not to be made available immediately
+for open access. The candidate shall request such an embargo via the Thesis Access
+Declaration Form which shall be submitted to Student and Programme Administration at
+the same time as the thesis is deposited in PURE. The request must be approved by the
+Head of Department who shall sign the form. The Thesis Access Declaration Form must be
+counter-signed by the Head of Student and Programme Administration for final approval.
+No thesis shall normally be withheld from public use for more than five years.
+18. Further information on embargoing a thesis is available from the Library’s webpage Deposit
+Your Thesis including guidance on reasons why it may be necessary to restrict access to a
+thesis.
+19. The guide to uploading a thesis to PURE, available from the Deposit Your Thesis webpage,
+includes instructions for adding the embargo details to PURE.
+Version 1.1 33
+MARP 2025-26
+Postgraduate Research Regulations
+REQUIREMENTS
+20. Multi-part thesis comprised of papers and articles: A thesis for which approval has been
+granted for submission in a multi-part format comprising a series of related articles suitable
+for journal publication shall include:
+(a) an introductory chapter covering the whole of the background and context of the
+research and demonstrating the overall unity of approach(es) and theme(s);
+(b) a final chapter summarising the achievements and conclusions of the whole of the
+research;
+(c) a full statement of authorship for each multi-authored publication, accompanied by
+written certification by the other authors of each publication of the proportion for
+which credit is due the candidate for carrying out the research and preparing the
+publication; and
+(d) where appropriate a consolidated bibliography, in addition to these elements as
+they appear in individual chapters.
+Note: a candidate may be advised to include a comprehensive methodology chapter, in
+addition to these elements as they appear in individual chapters. Further advice may be
+found in the guidelines published by the department of registration.
+21. PhD by coursework and thesis: In respect of a thesis submitted under the regulations
+governing a PhD by coursework and thesis the wording of the cover page shall be: ‘This
+thesis is submitted in partial fulfilment of the requirements for the degree of Doctor of
+Philosophy'.
+22. PhD by Published Work: An electronic copy of all items submitted for the degree of PhD by
+Published Work shall be submitted to Student and Programme Administration for
+examination. This will include the full text of the publications included in the PhD and the
+supporting paper5. It is preferred that a single PDF file is submitted. Following examination,
+the final version including the full text of the publications and covering paper should be
+deposited in PURE. To deposit the published version of the publications, it is necessary to
+check the policy of the publishers of the publications that make up the thesis. If the
+publisher does not allow the published version of the full text to be deposited, it may be
+possible to deposit the ‘author accepted manuscript’. Guidance on deposit for this type of
+doctorate is available from the Library. It is the responsibility of the student to check the
+publisher’s policy regarding the inclusion of full text publications in the PhD.
+23. Multimodal PhD: The components of multimodal theses may include, for example, art
+works, performances, collaborative projects, creative writing or similar elements. Specific
+requirements for multimodal theses, including the format of non-written components and
+required word lengths/scope, will be provided by departments.
+5 Details on what must be included in the supporting paper are provided in Appendix 3 of these Regulations.
+Version 1.1 34
+MARP 2025-26
+Postgraduate Research Regulations
+APPENDIX 3: REGULATIONS FOR SPECIFIC DOCTORAL AWARDS OR
+PROGRAMMES
+PHD BY COURSEWORK AND THESIS
+1. Candidates shall register at the outset for a PhD qualification and undertake taught courses
+specified by the department of registration. Such courses shall normally be completed
+within twenty-four months of first registration.
+2. To be eligible for confirmation of the PhD, the candidate shall:
+(a) submit for assessment in the taught courses, written work of which a proportion
+specified by the department shall be of publishable standard; and
+(b) satisfy a departmental exam board that they are academically capable of
+successfully completing a thesis.
+The rules for determining confirmation of the PhD on the basis of satisfactory coursework
+are specific to the individual programme. These rules are approved by the faculty and
+notified to the body or officer with delegated authority from Senate via Academic Quality,
+Standards and Conduct. The board may recommend one of the following:
+(c) that the candidate is eligible for their PhD registration to be confirmed, subject to
+submission of a satisfactory proposal for the thesis; or
+(d) that the candidate be invited to re-submit elements of coursework, to satisfy the
+requirement of (i) above, with one further opportunity for the PhD registration to be
+confirmed; or
+(e) that the candidate be invited to complete the requirements for examination for the
+award of MPhil.
+Note: in the event that the board recommends (e), the candidate shall be eligible to appeal.
+3. A candidate in respect of whom the board has recommended (d) above, shall submit to a
+departmental panel normally within six calendar months from the date of notification of (c),
+a proposal for a thesis of up to 70,000 words. After consideration of the proposal, the panel
+may recommend one of the following:
+(a) that the candidate’s registration for a PhD. be confirmed; or
+(b) that the candidate be invited to revise and re-submit the proposal with one further
+opportunity for the PhD to be confirmed; or
+(c) that the candidate be invited to complete the requirements for the award of MPhil.
+Note: in the event that the board recommends (c), the candidate shall be eligible to appeal.
+4. A candidate who has satisfied the requirements is required to submit a thesis of normally
+not more than 70,000 words, within sixty calendar months of first registration for the PhD.
+The dissertation shall be examined according to the normal regulations above. To be eligible
+Version 1.1 35
+MARP 2025-26
+Postgraduate Research Regulations
+for the award of the PhD, the thesis shall make an original contribution to knowledge and
+contain material of a standard appropriate for scholarly publication.
+INTEGRATED PHD PROGRAMMES
+5. A candidate shall register at the outset for a PhD with a minimum full-time registration
+period of forty-eight months and maximum of sixty months. Any extension of the maximum
+period must be approved by Student and Programme Administration after consideration of
+evidence of the student’s progress submitted by the department concerned, up to an
+absolute maximum of eighty-four months.
+6. A candidate shall undertake taught courses specified by the department of registration.
+Such courses shall normally be completed within twenty-four months of first registration
+and lead to the award of MRes.
+7. Re-registration for the second year of study shall be contingent upon the recommendation
+of the department. Such recommendation shall be contingent upon:
+(a) successful completion of the specified taught courses, normally above the level of
+the minimum pass mark; and
+(b) confirmation that a suitable topic for research has been identified i.e. a topic for
+which the student is deemed eligible and for which the department can provide
+appropriate support and supervision.
+8. In the absence of such a recommendation, the candidate shall withdraw from the
+programme. Students may appeal against this decision under the procedures for Academic
+Appeals.
+9. To be eligible for confirmation of the PhD, normally after a minimum of twenty-four months
+from first registration, the candidate shall:
+(a) submit for assessment written work of which a proportion specified by the
+department shall be of an appropriate standard; and
+(b) satisfy a departmental exam board that they are academically capable of
+successfully completing a thesis.
+10. The board may recommend one of the following:
+(a) that the candidate is eligible for confirmation of their PhD status, subject to
+submission of a satisfactory proposal for the thesis; or
+(b) that the candidate be invited to re-submit elements of written work to satisfy the
+requirement of (a) above, with one further opportunity to apply for confirmation of
+the PhD; or
+(c) that the candidate be invited to complete the requirements for examination for the
+award of MPhil.
+Note: In the event that the board recommends (c), the candidate shall be eligible to appeal.
+Version 1.1 36
+MARP 2025-26
+Postgraduate Research Regulations
+11. A candidate in respect of whom the board has recommended (i) above, shall submit to a
+departmental panel), normally within six calendar months from the date of notification of (i),
+a proposal for a thesis of up to 70,000 words. After consideration of the proposal, the panel
+may recommend one of the following:
+(a) that the candidate’s registration for a PhD be confirmed, or
+(b) that the candidate be invited to revise and re-submit the proposal with one further
+opportunity to apply for a transfer of registration to PhD; or
+(c) that the candidate be invited to complete the requirements for the award of MPhil.
+Note: in the event that the board recommends (c), the candidate shall be eligible to appeal.
+12. A candidate who has satisfied the requirements shall be required to submit a thesis of
+normally not more than 70,000 words. The thesis shall be examined according to the
+normal regulations. To be eligible for the award of the PhD, the thesis shall make an original
+contribution to knowledge and contain material of a standard appropriate for scholarly
+publication.
+MULTIMODAL RESEARCH DEGREES
+13. Subject to discussion and approval within departments, a candidate for the degree of PhD or
+MPhil may submit a multimodal thesis comprised of two components:
+(a) a written thesis; and
+(b) a substantial practical work (e.g. a theatrical production, installation, exhibition of
+work, recital, lecture-recital, or some other performative or participatory event, a
+play, a translation, a design, computer software, creative writing, a model or
+prototype, a series of conceptual works).
+14. The practical and written components, which interdependently constitute the “thesis” as
+such, will be evaluated in relation to each other after the written component has been
+submitted.
+15. The examiners will evaluate the practical and written components according to the extent to
+which they both respond to a single list of specific and explicit research questions which
+should be submitted prior to the presentation of the practical component.
+16. The practical component must negotiate and articulate a response to the research questions
+through an appropriate level of skill in the manipulation of the materials of production or
+event. For the degree of PhD, the practical component, which can consist of a minor and a
+major submission, should normally be of an appropriate professional standard.
+17 If the practical component involves the creation of a performance event/works or exhibition
+of work:
+(a) the board of examiners is required to attend the performance, event or exhibition;
+(b) an audiovisual record of that event/work, or even live performances of that work on
+tour, will not be acceptable in lieu of a live performance or event at a designated
+Version 1.1 37
+MARP 2025-26
+Postgraduate Research Regulations
+venue unless the medium of audiovisual recording, the contingencies of touring, or
+the absence of locality, are factored into the research topic.
+18. A permanent record of the practical component should normally be deposited with the
+written thesis in the University Library.
+19. Just as the examiners can, according to the rules of the University, require the candidate to
+amend or revise a written thesis in part of in whole as a condition of an award, so they can
+also require the candidate to amend or revise the practical component in part or in whole,
+but only on the condition that they are not satisfied that any shortcomings in the practical
+submission can be compensated or accounted for in the written thesis. In such a case, the
+examiners should, wherever possible, set a cost-effective practical assignment that
+addresses their concerns rather than demand a revision of the original practical work in its
+entirety.
+20. The written thesis must be of a quality commensurate with the usual standards set for MPhil
+or PhD, but need not be of the same length. Departments will advise each candidate on the
+exact minimum length of the written thesis. For a 50/50 split assessment the written thesis
+should not normally exceed 40,000 words for a PhD and 20,000 words for an MPhil (noting
+the word length inclusions and exclusions detailed in Appendix 2). In other cases (e.g. 70/30
+thesis/practical split) the word count will be agreed by the supervisor, the appropriate
+transfer panel and the body or officer with delegated authority from Senate. The length of
+the written thesis should normally be agreed on a proportionate basis.
+DOCTOR OF CLINICAL PSYCHOLOGY (DCLINPSY)
+21. In addition to the normal requirements for admission and award, a candidate shall maintain
+throughout the period of study their registration with the British Psychological Society.
+22. A candidate shall register at the outset for a DClinPsy qualification and undertake taught
+courses and clinical placements specified by the department of registration. Such courses
+shall normally be completed within thirty-six months of first registration.
+23. Successful completion of each course and placement is both qualificatory and progressional.
+A candidate who fails to satisfy the requirements of the scheme of assessment within the
+specified opportunities for examination and re-examination shall be required to withdraw.
+Students may appeal against this decision under the procedures for Academic Appeals.
+24. A candidate who successfully completes all the required courses and placements shall,
+normally by early June of the third year of study, submit for examination a dissertation. The
+dissertation shall not exceed 56,000 words in length, inclusive of references and appendices.
+A successful candidate for the degree of DClinPsy shall show convincing evidence of the
+capacity to pursue scholarly research or scholarship, the results of which shall be embodied
+in a dissertation which makes an original contribution to knowledge and contains material of
+a standard appropriate for scholarly publication. External examiners for the thesis will be
+competent in the area of clinical psychology being examined and may be engaged by the
+Version 1.1 38
+MARP 2025-26
+Postgraduate Research Regulations
+University to examine up to four DClinPsy candidates per year over a maximum period of up
+to four years.6
+DOCTOR OF MEDICINE (MD)
+25. Eligibility: the award of MD is at doctoral level, and shall normally be taken after a candidate
+can demonstrate suitable clinical experience as an element of the admissions process.
+26. Level: the Lancaster MD shall be a research degree that contains research conducted at the
+doctoral level, both in terms of the publishable quality of research that is expected in the
+thesis, and when viewed alongside the QAA's FHEQ level descriptors. It shall be comparable
+in level to the Doctorate in Clinical Psychology (DClinPsy).
+27. Content: the degree will be awarded for research by thesis or by publication. The thesis
+should contain original work of publishable quality, but not necessarily in a publishable
+format. An award based on published work (defined as papers produced during registration)
+will use the same criteria as the University's existing multi-part thesis format.
+28. Duration: candidates will demonstrate, as an element of admissions, suitable prior
+experience in their chosen area of clinical study so as to be able to provide a basis for
+research equivalent to one-year of doctoral research; thereafter there will be a two-year
+minimum period of registration, full-time (or equivalent); exceptionally less for MD by
+published work.
+29. Entry requirements: applicants must hold a medical or dental qualification which is
+recognised by the General Medical/Dental Council for the United Kingdom, shall have held
+this qualification for at least three years, by the date of submission, and shall be employed
+during their period of registration in appropriate clinical or scientific work in hospitals or
+institutions associated with the University.
+30. Admission: The University shall only admit students for whom it is able to provide adequate
+and appropriate academic supervision. Each application shall be considered by an MD
+admissions panel, whose members shall include the potential supervisor(s) and the relevant
+head of department.
+31. Initial registration: Students shall be initially registered for MSc by Research and the
+registration shall be transferred to MD on satisfactory completion of the first year, based on
+evidence of research performance commensurate with doctoral level of study, judged by a
+written report and a viva voce examination.
+32. Supervision: Each student shall be allocated to a supervisor by the department, who shall
+normally be an academic member of staff of the University, and who shall carry out the
+normal duties of a supervisor. In addition the faculty shall, where appropriate, arrange for
+each student to have access to clinical supervision, normally through the clinical institution
+where the student is undertaking their research.
+6 The alternative arrangements for DClinPsy external examiner appointments shall be reviewed prior to the
+2026/27 academic year to confirm continued suitability and effectiveness.
+Version 1.1 39
+MARP 2025-26
+Postgraduate Research Regulations
+33. Research skills: Each student shall be provided with opportunities to develop generic
+research skills including taking appropriate postgraduate taught modules, which shall be
+defined by the principal supervisor in consultation with the student. This taught element
+shall not form part of the formal assessment for the award of MD.
+MULTI-PART THESES COMPRISED OF PAPERS AND ARTICLES
+34. The candidate’s department of registration shall maintain and provide guidelines on the
+multi-part format(s) judged appropriate to the discipline, for the information of students,
+supervisors and examiners. A department must obtain approval of its guidelines by the
+faculty committee responsible for postgraduate provision.
+Notes:
+(a) a candidate is encouraged to seek advice within their department of registration
+that the multi-part format is more appropriate for the research project and that they
+can take full advantage of the format;
+(b) supervising departments are encouraged to seek, where practicable, the advice of
+the External Examiner(s) with respect to the format proposed; and
+(c) the guidelines shall form the basis of agreement between the student, supervisor
+and head of department (or their nominee) on the multi-part format to be employed
+in the submission.
+35. The thesis shall include original, researched materials, of which a significant proportion shall
+be derived from original research undertaken after the date of first registration.
+Notes: it is anticipated that at the point of thesis submission materials be:
+(a) already published; and/or
+(b) accepted for publication; and/or
+(c) submitted for publication in externally refereed contexts such as journals,
+conference proceedings and on-line sites, and may include materials which are
+solely and/or partly authored by the candidate.
+It is not a requirement that all materials be published or accepted or submitted for
+publication, prior to the submission of the thesis for examination.
+36. Examiners shall satisfy themselves that the thesis as a whole meets the criteria for award of
+the degree, as outlined above.
+Notes: examiners:
+(a) may wish to pay particular attention to satisfying themselves that of any multi-
+authored materials included, a significant proportion is the work principally of the
+candidate; and
+(b) are reminded of the freedom to specify additional tests as part of the examination.
+Version 1.1 40
+MARP 2025-26
+Postgraduate Research Regulations
+EUROPEAN DOCTORATE
+37. The European Doctorate is a qualification that was created by the Confederation of EU
+Rectors’ Conference (now the European University Association) and provides the
+opportunity to study for a qualification which meets the criteria which are commonly
+understood to be met in a doctorate, using examination procedures that are widely
+recognised across Europe, involving an ability to work in more than one language, and
+entailing periods of time spent working in institution across more than one EU member
+state.
+38. The characteristics of the European Doctorate are those of the traditional Lancaster PhD
+with the following amendments.
+(a) The thesis should be reviewed by at least two academics from different higher
+education institutions in different EU countries, excluding the UK. At least one
+member of the exam board should come from an EU country other than the UK. In
+the Lancaster context, this requirement would most easily be implemented by
+having two External Examiners at the board from EU countries other than the UK.
+(b) Part of the defence must take place in one of the official languages of the EU other
+than English.
+(c) The thesis must have been prepared partly as a result of a research period of at least
+one term spent at an institution in an EU country other than the UK.
+39. The European doctorate is available in any of the areas in which the PhD is currently
+available at Lancaster, and is offered under the title of European Doctorate in XXXX, with
+postnominal letters of PhD.
+DSc and DLitt
+40. To be eligible for the degree of Doctor of Science (DSc) or of Doctor of Letters (DLitt),
+candidates shall be either graduates of the University, or members of staff of the University,
+whose record of published work and research shows conspicuous ability and originality and
+constitutes a distinguished and sustained achievement.
+41. Any person who wishes to be considered for the award of the degree of DSc/DLitt shall
+submit a formal written letter of application to the Head of Student and Programme
+Administration, stating in outline on what basis the award is sought and what evidence in
+support of the application is available. Such letters of application may be submitted at any
+time.
+42. As soon as possible after the letter of application has been submitted, the Head of Student
+and Programme Administration, acting on the advice of the relevant faculty dean, shall
+recommend to the body or officer with delegated authority from Senate an appropriate
+senior academic member of staff of the University or equivalent with appropriate specialist
+knowledge of and expertise in the field, to consider the information supplied.
+43. The member of staff appointed shall consider whether a prima facie case for formal
+examination exists and shall recommend either:
+Version 1.1 41
+MARP 2025-26
+Postgraduate Research Regulations
+(a) that the application proceed, in which case the procedure to be followed is that
+specified below; or
+(b) that the application is not suitable for examination, in which case the procedure to
+be followed is that specified below.
+44. Where a recommendation for formal examination to proceed is made, the member of staff
+shall recommend persons who might be appointed as examiners. The body or officer with
+delegated authority from Senate, acting on behalf of the Committee of Senate on the advice
+of the Head of Student and Programme Administration, shall approve the appointment of
+not fewer that two independent External Examiners, with expertise in the field, one of
+whom shall be the lead examiner. The officer with delegated authority from Senate, or their
+nominee, shall act as the internal examiner.
+45. The Head of Student and Programme Administration shall inform the applicant of the
+appointment of examiners, of what additional material in support of the application is
+required, and of the fee to be paid prior to the examination.
+46. Where a recommendation is made that the application is not suitable for examination, the
+Head of Student and Programme Administration shall advise the candidate of this
+recommendation.
+47. In such cases the candidate may:
+(a) withdraw the application, whereupon no fee shall be payable;
+(b) elect to proceed with the examination, and be liable for payment of the full fee,
+subject to confirmation by the Head of Student and Programme Administration that
+appropriate External Examiners are available and willing to act. In the absence of
+such confirmation the application will lapse.
+PHD BY PUBLISHED WORK
+Award criteria
+48. To be awarded a PhD by Published Work a candidate must show that their work makes a
+significant contribution to knowledge in a particular field. The publications must also
+provide evidence of the capacity of the candidate to pursue further research, representing a
+coherent contribution to research in a given field and demonstrating a depth of scholarship
+and originality comparable with that required in a PhD thesis. The material submitted shall
+be sufficiently extensive as to provide convincing evidence that the research constitutes a
+substantial contribution to knowledge or scholarship.
+Admissions criteria
+49. Candidates for the degree of PhD by submission of published work must be:
+(a) members or past members of staff at Lancaster University or at one of Lancaster
+University's associated institutions (University of Cumbria, Blackburn College, and
+Blackpool and The Fylde College); or
+Version 1.1 42
+MARP 2025-26
+Postgraduate Research Regulations
+(b) alumni of Lancaster University or of one of Lancaster University's associated
+institutions.
+50. In order to be eligible for consideration, alumni must be graduates of at least five years'
+standing and have already obtained a Master’s degree or show evidence of having received
+research training or equivalent experience. In exceptional circumstances, other candidates
+may also be considered.
+Applications and registration
+51. Applications may be made at any time. A letter of application should be accompanied by:
+(a) a list of the publications to be submitted: these may include refereed articles,
+authored chapters, authored books, and edited works. They may not include course
+readers, internally published material or unpublished seminar/conference papers;
+and
+(b) a supporting paper: this should summarise each publication submitted, outline their
+interrelationship, give a critical review of the current state of knowledge and
+research in the applicant's field and indicate how their work has contributed to the
+field. It should also comment on the standing of any journals and the reception of
+the publications as indicated by citations and reviews.
+52. The candidate's application shall first be considered by either a Faculty’s Associate Dean for
+Research or Postgraduate Studies (according to which officer has responsibility for PhD
+study), in consultation with the Head of the appropriate department. If the application is
+accepted, the applicant will then be registered to submit for the degree of PhD by Published
+Work, and an internal adviser will be appointed by the Head of Department to assist the
+candidate. A minimum period of three months and a maximum period of twelve months are
+allowed before submission.
+Examination
+53. Candidate shall submit for examination:
+(a) three copies, in published form, of each item forming part of the work on which the
+application for the degree by published work is based. Permission to include work in
+manuscript, but which has been accepted for publication, may be granted;
+(b) four copies of the supporting paper, modified, if necessary after consultation with
+the advisor;
+(c) a statement as to what part if any of the material has been submitted for a degree
+or other qualification in this or any other University or other institution, explaining
+the reason for its inclusion and, if joint work is submitted, what part of it is the
+candidate's contribution.
+54. A panel of examiners consisting of one internal and two External Examiners shall be
+appointed by the body or officer with delegated authority from Senate on behalf of the
+Committee of the Senate on the nomination of the department(s) concerned. The internal
+examiner will not normally have been appointed as adviser to the candidate. An oral
+examination will normally be held for the degree, but this requirement may be waived with
+Version 1.1 43
+MARP 2025-26
+Postgraduate Research Regulations
+the approval of the body or officer with delegated authority from Senate provided that all
+the examiners are in agreement.
+55. The examiners shall make one of the following recommendations:
+(a) that the degree of PhD by published work be awarded;
+(b) that the degree be awarded subject to specified revisions of the supporting paper;
+or
+(c) that the degree be not awarded.
+56. The examiners may not recommend the award of a lower degree.
+57. A candidate whose work has been found unacceptable for the award of the degree may be
+permitted to resubmit only after completing re-registration; normally, this would be no
+earlier than two years after the original submission.
+58. Examiners' reports and recommendations are considered by the body or officer with
+delegated authority from Senate on behalf of the Committee of the Senate, and a decision
+given to the candidate within one month of the oral examination.
+Version 1.1 44
+MARP 2025-26
+Postgraduate Research Regulations
+APPENDIX 4: FRAMEWORK FOR THE RESEARCH DEGREE VIVA
+The guidance set out below, and approved by the Senate, is designed to best protect the interests of
+all participants in the process, for any research degree examination leading to a Lancaster award
+(even when a viva voce is held away from Lancaster).
+1. Definition of the viva voce
+1.1 A viva voce is an oral examination of a research degree thesis, and of the student who wrote
+it, which is normally conducted in person, at Lancaster, by an internal and an external
+examiner.
+1.2 The first stage of the examination is the review of the student’s thesis. Student and
+Programme Administration is responsible for sending a copy of the thesis to each examiner.
+The examiners independently read the thesis and write a Pre-Viva Voce report on it, with
+comments about its contribution to the field, its strengths and weaknesses, and possibly a
+range of points which they will raise at the viva voce.
+2. Status of the viva voce
+2.1 The viva voce is a compulsory part of all research degree examinations unless otherwise
+specified in the regulations however excellent or poor the thesis may be. The student
+always has the right to defend their work to the examiners.
+2.2 It is not possible under current regulations for a student to fail a research degree outright
+without undertaking a viva voce.
+3. Role of each participant in the viva voce
+3.1 The external examiner(s): the role of the external examiner(s) (someone not connected with
+the University) is to assess the quality of the submission and help to uphold the quality of
+the degree in the UK.
+3.2 In certain circumstances, there may be a third examiner, external to the University, involved
+to ensure impartiality. This would happen if:
+(a) the student is a member of staff, or holds a temporary teaching or research contract
+at the University;
+(b) the student is being examined for a Ph.D. by Published Work;
+(c) the student’s supervisor is acting also as the internal examiner.
+3.3 The internal examiner(s): the role of the internal examiner(s) is to assess the quality of the
+submission and help to uphold the quality of a Lancaster award. The role is similar to that of
+the external examiner(s), and it has equal status and standing. It is not the role of the
+internal examiner to protect the student, to be the student’s friend, and/or to defend the
+supervisor, department or institution against criticism from the external examiner(s), nor to
+act as chair in the viva voce (unless the department decides not to have an independent
+chair: see clause 6.1). The internal examiner must be and be seen to be independent; and
+thus wherever practicable they should not have played any significant role in either the
+Version 1.1 45
+MARP 2025-26
+Postgraduate Research Regulations
+supervision of the student or the assessment of the student during their studies (e.g. annual
+progress review, confirmation panel).
+3.4 The independent chair: the role of the independent chair is to be an observer and manager
+of the meeting, and to ensure that procedures are followed properly. The chair does not
+need to be a subject specialist, does not need to have read the thesis, and is not directly
+involved in examining it. If a department decides not to have an independent chair (see
+clause 6.1), it must arrange for an audio record of the viva voce to be made and retained
+(see clause 7). If there is no independent chair, the internal examiner will normally be
+expected to chair the viva voce. There should always be an independent chair where the
+internal and/or external examiners are inexperienced (usually defined as having participated
+in less than two vivas at the appropriate level).
+3.5 The student: the role of the student is to discuss, explain and defend their work as
+represented in the thesis being examined, to be open to critical appraisal by the examiners,
+and to be prepared and willing to engage in a dialogue with the examiners about the
+substance and field of enquiry of the thesis.
+3.6 The supervisor(s): whether the supervisor is present throughout the viva voce (see clause
+5.1 (a)), or attends at the end when the examiner’s report to the student their decision
+about the outcome of the examination, their role is to be a silent witness to the proceedings,
+and through that to be able to provide feedback to and advise the student after the viva
+voce is completed.
+4. Student preparation for the viva voce
+4.1 All students should be allowed and encouraged to acquire relevant experience in defending
+the thesis, in advance of the viva voce, including:
+(a) by robust interrogation of their work and progress during each annual appraisal and
+at the confirmation panel;
+(b) by being given special training for the viva voce (including a mock viva voce). This is
+probably best done by their faculty (e.g. through the faculty training programmes).
+4.2 It would be inappropriate for the chair and/or internal examiner(s) to be directly involved in
+the student’s training for the viva voce.
+5. Membership of viva voce panel
+5.1 Supervisor
+(a) The student’s supervisor(s) may attend the viva voce with the approval of the
+examiners and the student.
+(b) If not present throughout the viva voce, the supervisor(s) may be invited to attend
+the final stage of the viva voce when the examiners report their decision to the
+student, unless the student advises the chair, before the viva voce, that they would
+prefer the supervisor not to attend.
+(c) If present, the supervisor(s) must remain silent and impassive, unless specifically
+invited to comment on specific points, by the examiners, through the chair.
+Version 1.1 46
+MARP 2025-26
+Postgraduate Research Regulations
+5.2 Independent chair
+(a) There should normally be an independent chair present throughout the viva voce
+(see clause 6.1). The independent chair should normally be a member of academic
+staff (or an emeritus member) at the level of Senior Lecturer or above, OR who has
+experience of conducting at least three research degree vivas as an examiner and
+has supervised at least one student to completion. The chair should not be an
+examiner or supervisor of the student being examined.
+(b) The independent chair should be selected by the relevant head of department or
+their nominee.
+(c) The chair must be familiar with this guidance, and with the Regulations for Higher
+Degrees of the University.
+(d) No member of staff should normally be expected to serve as independent chair on
+more than one viva voce per term (three per year).
+6. Chair and/or audio record
+6.1 For examinations (whether in-person or online), departments have discretion to decide, on a
+case-by-case basis, whether to have an independent chair (see clause 5.2) and/or to keep an
+audio record (see clause 7.1) of the viva voce proceedings. They must adopt at least one of
+the two.
+6.2 An independent chair and an audio record do not serve the same purpose, so departments
+need to give careful thought about which one(s) they will adopt in each case.
+6.3 The decisions about the independent chair and the audio record must be notified to Student
+and Programme Administration at the time of appointment of the internal and external
+examiners.
+7. Record keeping
+7.1 Departments have discretion not to make an audio record of a particular viva voce, provided
+they appoint an independent chair (see clause 6.1).
+7.2 If the department decides that it is appropriate to record a viva voce on audio tape or
+minidisk, the person taking the chair at the viva voce should ensure that the audio record is
+made and lodged with Student and Programme Administration.
+7.3 Nothing will be done with the recording (no one will listen to it) unless it is to be used as
+evidence in the event of an appeal/complaint.
+7.4 The recording should normally be kept for no longer than twelve months after the viva voce,
+unless the student has made an appeal/complaint against the decision of the examiners (in
+which case the recording should be kept until the end of the appeal/complaint process).
+Version 1.1 47
+MARP 2025-26
+Postgraduate Research Regulations
+8. Timing and arrangements
+8.1 The maximum period of time between submission of thesis by student and the date of the
+viva voce examination should normally be three months.
+8.2 The postgraduate director in the student’s department is responsible for making
+arrangements for the viva voce (including day, time, location and name of the independent
+chair if there is one), and for communicating this information to the examiners, the student,
+the chair and the supervisor(s).
+8.3 Appropriate arrangements should be made available for disabled students, on the same
+basis as for other forms of University assessments, in order to provide an equal opportunity
+to defend the thesis.
+8.4 The examiners, chair and student should be given as much notice as possible about the day
+and time of the viva voce, and this should normally be not less than two weeks prior to the
+appointed date.
+8.5 The chair is responsible for making sure that seating arrangements in the viva voce room are
+appropriate for dialogue between the participants.
+8.6 Video-conferencing of a viva voce examination, with either the candidate or an examiner at
+a remote location, is permissible as long as the student is not disadvantaged by its use, and
+as long as all parties consent to it. The University retains the right to refuse a request to use
+video-conferencing; such a refusal will not constitute grounds for appeal. Guidance for the
+conduct of such a viva voce examination is in Appendix 5.
+8.7 The internal examiner should collate written guidance from all the examiners on required
+changes to the thesis to be undertaken within a reasonable period of time after the viva
+voce. For minor corrections the information should normally be collated within two weeks;
+for major corrections or revisions to the thesis within one month.
+8.8 The internal examiner should forward the written guidance from the examiners to the
+student, and send a copy to Student and Programme Administration, without delay.
+8.9 The period for corrections or revisions to the thesis commences on the day written
+notification of the decision of the examiners is sent to the student by Student and
+Programme Administration.
+9. Examiners’ written report
+9.1 Examiners are required to provide written reports on the thesis before the viva voce
+examination, to establish that they have read the thesis before the viva voce, and to record
+their initial judgements formed on the basis of reading the thesis.
+9.2 Examiners are required to write separate such reports independently of each other, and
+send them to Student and Programme Administration, before they exchange views and
+compare notes with the other examiners.
+9.3 Examiners should be given the opportunity (but not be required) in such reports to give a
+provisional decision about the outcome of the examination.
+Version 1.1 48
+MARP 2025-26
+Postgraduate Research Regulations
+9.4 The reports should only be seen before the viva voce by administrative staff who have no
+vested interest in the outcome of the examination.
+9.5 Under Data Protection legislation, the student has no right of access to the reports before
+the examination process is complete.
+10. The purpose of the viva voce examination
+10.1 The viva voce is an opportunity for the student to defend the thesis.
+10.2 It is not a purpose of the viva voce to test the student’s command of spoken English in what
+is often a stressful situation. This is particularly important for students whose first language
+is not English, and for some disabled students.
+10.3 The viva voce should normally include the assessment of the student’s ability to:
+(a) locate their research in the broader context;
+(b) display detailed knowledge of the thesis;
+(c) authenticate the work (i.e. to prove that it is the student’s own work).
+10.4 Criterion (a) should be explicitly commented on in the examiners' reports.
+10.5 Criteria (a) to (c) should be explicitly evaluated during the viva voce.
+10.6 It is appropriate in the viva voce to ask questions about the originality of the thesis, and
+about the contribution the thesis makes to knowledge.
+10.7 The student should also be able to defend the methodology and conclusions of the thesis,
+and display awareness of the limitations of the thesis, in the viva voce.
+10.8 For the viva voce to be regarded as successful, the student should satisfy the examiners that
+they are worthy of the research degree, which ultimately is a matter of academic judgement
+by the examiners.
+11. Conduct of the viva voce
+11.1 Existing University Regulations cover procedures for dealing with disagreements between
+examiners.
+11.2 Examiners should not normally be able to fail or refer a thesis on grounds that are not
+considered with the student in the viva voce. The decision should be based on what is
+discussed in the viva voce.
+11.3 A recording (see clause 7) is helpful in reconstructing what was discussed in the viva voce,
+and how it was discussed.
+11.4 The viva voce should give the student an opportunity to defend anything the examiners
+regard as problematic. It will normally be expected to touch upon the issues that the
+examiners regard as important in reaching their decision about the award of the degree in
+question.
+Version 1.1 49
+MARP 2025-26
+Postgraduate Research Regulations
+11.5 The student should be told by the chair at the beginning of the viva voce, that no
+information about outcomes will be provided until the end of the viva voce examination,
+and that no conclusions should be drawn from this. This is because to indicate or hint at
+outcomes could:
+(a) partly negate the value of the viva in the assessment process;
+(b) compromise the ability of the examiners to change their mind during the course of
+the viva voce;
+(c) have a significant impact on how the student feels and responds to questioning
+during the viva voce.
+11.6 A typical viva voce should normally last for not less than one hour and not more than four
+hours, although it is recognised that practice varies between disciplines.
+11.7 Questions during the viva voce should be fair and appropriate. Fair play should be
+maintained, and proper procedures should be followed.
+11.8 If the chair and examiners anticipate that a viva voce is likely to last more than about two
+hours, the chair should give an opportunity for a break after two hours, provided that to do
+so does not disadvantage the student.
+11.9 The chair shall have final decision on when the viva voce should finish, taking into account
+the views of the examiners, and the need to uphold fair play and to give the student an
+opportunity to defend their work.
+12. Student role in the viva voce
+12.1 Examiners are expected to be open-minded in their probing of the student's work, and to
+approach the task in a spirit of academic integrity.
+12.2 The chair should ensure that the student is given the opportunity to present a brief verbal
+summary of their work (15 minutes maximum), towards the start of the viva voce, if they
+wish to do so.
+12.3 The chair should ensure that the student is given an appropriate right of reply to points
+raised by the examiners, during and at the end of the viva voce.
+12.4 If the student feels during the course of the viva voce that the questions are not fair or
+appropriate, that they are being denied the right of reply, or that proper procedures are not
+being followed, they should be able to call for a break, and talk privately with the chair.
+12.5 If the chair grants such a time out during the viva voce, the conversation between student
+and chair should not be overheard by the examiners, but it should be recorded on the audio
+tape or mini-disk if the viva voce is recorded.
+13. Outcome of the viva voce
+13.1 Towards the end of the viva voce, the student (and supervisor(s) if present) should be asked
+to leave the room while the examiners decide what outcome they think appropriate.
+Version 1.1 50
+MARP 2025-26
+Postgraduate Research Regulations
+13.2 The chair should remain present throughout the viva voce.
+13.3 When the examiners have reached their decision, the student (normally accompanied by the
+supervisor(s)) should then be invited back into the room, to be told (normally by the external
+examiner) what the examiners will be recommending to the University.
+13.4 The outcome given at the end of the viva voce is a recommendation, subject to approval by
+the body or officer with delegated authority from the Committee of Senate.
+14. Post-Viva Voce Reports
+14.1 All examiners are required to submit a further written report after the viva voce, which
+includes their judgement of the quality of the thesis and the student’s performance in the
+viva voce, and contains their recommendation about the award of the degree:
+(a) examiners can submit a joint report if they agree on the outcome, and if producing a
+joint report is practical under the circumstances;
+(b) examiners must submit separate reports if they disagree on the outcome.
+14.2 Under Data Protection legislation, students have a right of access to their post-viva voce
+report after Senate approval of the examiners’ recommendation is confirmed and the
+examination (including any revisions) has been completed.
+14.3 Any examiner may indicate that part (to be highlighted explicitly) or all of their report should
+be disclosed to the student before the examiners’ recommendations are approved by the
+Senate, if the examiner believes this would help the student to make appropriate
+corrections or revisions.
+14.4 The internal examiner is responsible for making sure that the student is made fully aware of
+the examiners’ expectations in respect of which corrections or revisions are felt necessary
+(see 8.6).
+15. Second Viva Voce
+15.1 The examiners can require a student to attend a second viva voce as part of the examination
+of a revised and resubmitted thesis or where major corrections are required, but not for
+minor corrections.
+16. Student’s right of appeal
+16.1 A student has no right of appeal against the academic judgement of the examiners. A
+student may appeal, however, against the outcome of the examination under the
+procedures for Academic Appeals as defined in the chapter on Academic Appeals.
+16.2 All students of the University have the right to make a complaint under the Student Charter.
+17. Publication of guidelines
+17.1 These guidelines and criteria will be published on the University web site, and will be:
+(a) given to each research degree student when submitting the thesis;
+Version 1.1 51
+MARP 2025-26
+Postgraduate Research Regulations
+(b) given to the examiners on appointment, to the chair on designation, and to the
+supervisor on submission of the thesis.
+Version 1.1 52
+MARP 2025-26
+Postgraduate Research Regulations
+APPENDIX 5: ONLINE VIVA VOCE EXAMINATIONS
+This appendix should be read in conjunction with the guidance provided in
+‘Staff information and processes for an online viva’. All parties should
+consult the guidance at least one week prior to the examination.
+1. Online vivas may be overseen by an independent chair, or recorded, or both overseen by an
+independent chair and recorded. The criteria for the appointment of the chair are set out in
+the Framework for the Research Degree Viva (Appendix 4), as is guidance about recording the
+viva.
+2. The chair should ensure that:
+a) all parties involved in the examination are informed in good time of the details of the
+examination;
+b) all parties have access to, and are familiar with the necessary technology and
+contingency plans;
+c) the correct process is followed for the viva;
+d) the wellbeing of the candidate is attended to over the course of the viva; and
+e) the recording of the examination is secured and lodged in accordance with the guidance.
+Should the candidate become distressed, the chair has the authority to briefly adjourn the
+examination and to speak to the candidate privately.
+3. Where the department decides to record an online viva (following the clauses in Appendix 4
+6.1-3 above), the candidate’s assent to this will be presumed unless they lodge a formal
+objection with the department in advance of the examination. The examiners’ consent to
+the recording of the viva must be obtained and confirmed on the Appointment of Research
+Examiners Form. The deliberations of the examiners must not be recorded. The recording
+remains the property of the University and no other recording is permitted to take place.
+4. Only the University’s supported, licensed and approved software for online meetings should
+be used for the purposes of conducting online vivas. Alternative software should only be
+used where necessary, and as agreed in the contingency plan.
+5. Any time differences between the locations must be taken into account to ensure that the
+candidate is not disadvantaged by an examination taking place at a time that might
+reasonably be considered to be inappropriate.
+Version 1.1 53
+MARP 2025-26
+Postgraduate Research Regulations
+6. Care must be taken to ensure that the technology used is as reliable as possible. To this end,
+the equipment and software should be tested at least one week prior to the examination
+using the same computers, systems, and locations (i.e. rooms) that will be used during the
+examination. Contingency plans are essential in the event of technology failure.
+7. The candidate’s identity must be confirmed at the beginning of the examination (e.g. by the
+supervisor or by a member of professional services staff). Any materials brought into the
+examination by the candidate should be identified at the outset, prior to the
+commencement of the examination.
+8. During the examination the examiners should normally be able to view the candidate,
+although it is accepted that for certain disciplines the candidate may need to demonstrate
+material on screen to the panel. Maintaining continuity of contact, however, is important
+and expected throughout the viva (excluding agreed breaks).
+9. The University will not normally permit any person to be present with the candidate other
+than technical staff involved in the use of online communication technology or where
+appropriate support arrangements have been previously agreed with disabled students.
+10. Each examiner should sign (electronically) the ‘Independent Report’ and the ‘Joint Report’
+and forward them to Student and Programme Administration as soon as possible after the
+examination.
+11. Examiners should comment on the conduct of the online examination using the standard
+‘Joint Report’ form and refer explicitly to the fact that it took place under COVID-19
+temporary regulations.
+12. Having agreed to an online examination, the candidate will not be permitted to use this as
+grounds for appeal, unless the circumstances of technical failure or other unforeseen
+eventualities beyond the control of the panel were deemed to have adversely affected the
+candidate’s performance and these were identified by the examiners in their joint report.
+Version 1.1 54
+MARP 2025-26
+Postgraduate Research Regulations
+APPENDIX 6: DETAIL OF IN-YEAR CHANGE MADE TO CHAPTER
+Version Date of change Detail of change & section(s) altered Approval of change
+1.1 21/11/2025 Amends to Appendix 5, to bring into line with N/a – Administrative
+return of optionality in having independent chair
+and/or recording for online viva voce
+examinations.
+Version 1.1 55

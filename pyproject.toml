@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "ai-assistant"
+version = "0.1.0"
+description = "AI assistant for Lancaster University regulations"
+authors = ["Qianhui-Lin <qianhuilin33@gmail.com>"]
+readme = "README.md"
+
+packages = [
+    { include = "app" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+fastapi = ">=0.122.0,<0.123.0"
+uvicorn = ">=0.38.0,<0.39.0"
+openai = ">=2.8.1,<3.0.0"
+python-dotenv = ">=1.2.1,<2.0.0"
+pdfplumber = "^0.11.8"
+boto3 = "^1.41.5"
+chromadb = "^1.3.5"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^7.1.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
