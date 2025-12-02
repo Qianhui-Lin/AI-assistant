@@ -2,6 +2,7 @@ import chromadb
 from chromadb.config import Settings
 from openai import OpenAI
 import os
+from typing import List
 
 client = OpenAI()
 
@@ -15,17 +16,66 @@ CHROMA_DIR = os.path.join(BASE_DIR, "data/chroma_db")
 
 chroma_client = chromadb.PersistentClient(path=CHROMA_DIR)
 
-collection = chroma_client.get_or_create_collection(
-    name="handbook",
-    metadata={"hnsw:space": "cosine"}  # similarity metric
-)
 
+def normalise_level(level: str) -> str:
+    """
+    Normalise level strings so the API can accept things like:
+    'ug', 'UG', 'Undergraduate' and map them to 'ug'.
+
+    You can expand this mapping if needed.
+    """
+    if not level:
+        raise ValueError("Level cannot be empty")
+
+    l = level.strip().lower()
+
+    mapping = {
+        "ug": "ug",
+        "undergraduate": "ug",
+        "pgt": "pgt",
+        "postgraduate_taught": "pgt",
+        "pg_taught": "pgt",
+        "pgr": "pgr",
+        "postgraduate_research": "pgr",
+        "pg_research": "pgr",
+    }
+
+    return mapping.get(l, l)  
+
+def get_collection_name(level: str) -> str:
+    """
+    Return the Chroma collection name for a given level.
+    Example: level='UG' -> 'handbook_ug'
+    """
+    norm = normalise_level(level)
+    return f"handbook_{norm}"
+
+
+def get_or_create_collection_for_level(level: str):
+    """
+    Convenience wrapper: directly get/create the collection for a level.
+    """
+    name = get_collection_name(level)
+    return chroma_client.get_or_create_collection(
+        name=name,
+        metadata={"hnsw:space": "cosine"},  # cosine similarity
+    )
+
+
+def get_or_create_collection(collection_name: str):
+    """
+    Generic getter if you already know the collection name.
+    """
+    return chroma_client.get_or_create_collection(
+        name=collection_name,
+        metadata={"hnsw:space": "cosine"},
+    )
 
 # --------------------------------
 # 1. Chunk text
 # --------------------------------
 def chunk_text(text, chunk_size=2000, overlap=300):
-    chunks = []
+    chunks:List[str] = []
     start = 0
 
     while start < len(text):
@@ -50,32 +100,34 @@ def embed_text(texts):
 # --------------------------------
 # 3. Build DB from text
 # --------------------------------
-def build_rag_from_text(text):
+def build_rag_from_text(text: str, collection_name: str)-> List[str]:
     chunks = chunk_text(text)
     embeddings = embed_text(chunks)
 
     ids = [f"chunk_{i}" for i in range(len(chunks))]
 
-    collection.upsert(
+
+    col = get_or_create_collection(collection_name)
+    col.upsert(
         ids=ids,
         documents=chunks,
         embeddings=embeddings,
     )
 
-    print(f"Inserted {len(chunks)} chunks into ChromaDB")
-    # chroma_client.persist()
+    print(f"Inserted {len(chunks)} chunks into ChromaDB collection '{collection_name}'")
     return chunks
 
 
 # --------------------------------
 # 4. Query DB
 # --------------------------------
-def search_similar_chunks(query, top_k=5):
+def search_similar_chunks(query: str, collection_name: str, top_k=5)-> List[str]:
     query_embed = embed_text([query])[0]
+    col = get_or_create_collection(collection_name)
 
-    results = collection.query(
+    results = col.query(
         query_embeddings=[query_embed],
-        n_results=top_k
+        n_results=top_k,
     )
 
     return results["documents"][0]  # list of chunk strings
