@@ -4,11 +4,23 @@ import boto3
 from botocore.exceptions import NoCredentialsError, ClientError
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-PDF_PATH = os.path.join(BASE_DIR, "data/original_pdf/PGR-Regs.pdf")
-LOCAL_TEXT_PATH = os.path.join(BASE_DIR, "data/extracted/handbook.txt")
+
 
 AWS_BUCKET_NAME = os.getenv("AWS_BUCKET_NAME", "bucket-name")
-AWS_S3_KEY = os.getenv("AWS_S3_KEY", "key")
+AWS_UG_KEY = os.getenv("AWS_UG_KEY")
+AWS_PGT_KEY = os.getenv("AWS_PGT_KEY")
+AWS_PGR_KEY = os.getenv("AWS_PGR_KEY") 
+
+def get_path_name(type:str,level:str|None=None):
+    if type.lower() == "handbook":
+        if level is None:
+            raise ValueError("level is required when type is 'handbook'")
+        pdf_path = os.path.join(BASE_DIR, f"data/original_pdf/{type}-{level}.pdf")
+        local_text_path = os.path.join(BASE_DIR, f"data/extracted/{type}-{level}.txt")
+    else:
+        pdf_path = os.path.join(BASE_DIR, f"data/original_pdf/{type}.pdf")
+        local_text_path = os.path.join(BASE_DIR, f"data/extracted/{type}.txt")
+    return pdf_path, local_text_path
 
 def extract_pdf_text(pdf_path: str) -> str:
     """Extract clean text from a PDF file."""
@@ -28,7 +40,7 @@ def extract_pdf_text(pdf_path: str) -> str:
     return cleaned
 
 # Save text locally
-def save_text_locally(text: str, output_path: str = LOCAL_TEXT_PATH):
+def save_text_locally(text: str, output_path: str):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
     with open(output_path, "w", encoding="utf-8") as f:
@@ -37,11 +49,11 @@ def save_text_locally(text: str, output_path: str = LOCAL_TEXT_PATH):
     print(f"Saved extracted text locally to: {output_path}")
 
 # Upload to AWS S3
-def upload_to_s3(text_path: str, bucket_name: str = AWS_BUCKET_NAME, key: str = AWS_S3_KEY):
+def upload_to_s3(text_path: str, key: str, bucket_name: str = AWS_BUCKET_NAME):
     s3 = boto3.client("s3")
 
     try:
-        s3.upload_file(text_path, bucket_name, key)
+        s3.upload_file(Filename = text_path, Bucket=bucket_name,Key=key)
         print(f"Uploaded extracted text to s3://{bucket_name}/{key}")
     except FileNotFoundError:
         print("ERROR: Local text file not found.")
@@ -49,13 +61,85 @@ def upload_to_s3(text_path: str, bucket_name: str = AWS_BUCKET_NAME, key: str = 
         print("ERROR: AWS credentials not found. Configure via environment variables.")
     except ClientError as e:
         print("AWS client error:", e)
-
-def process_and_upload_pdf():
+#NOTE 待检查
+def process_and_upload_pdf(pdf_path: str, local_text_path: str):
     """Full pipeline: PDF → extract text → save locally → upload to S3."""
-    text = extract_pdf_text(PDF_PATH)
+    text = extract_pdf_text(pdf_path)
     save_text_locally(text)
-    upload_to_s3(LOCAL_TEXT_PATH)
+    upload_to_s3(local_text_path)
     return text
 
-if __name__ == "__main__":
-    process_and_upload_pdf()
+def process_and_upload_pdf_for_level(
+    pdf_path: str,
+    local_text_path: str,
+    level: str,
+):
+    """
+    Full pipeline for a specific level:
+    PDF → extract text → save locally → upload to the correct S3 key.
+    """
+    # Extract
+    text = extract_pdf_text(pdf_path)
+
+    # Save locally
+    save_text_locally(text, local_text_path)
+
+    # Find correct S3 key for this level
+    level_lower = level.lower()
+    if level_lower == "ug":
+        s3_key = AWS_UG_KEY
+    elif level_lower == "pgt":
+        s3_key = AWS_PGT_KEY
+    elif level_lower == "pgr":
+        s3_key = AWS_PGR_KEY
+    else:
+        raise ValueError(f"Unsupported level '{level}'. Must be ug/pgt/pgr.")
+
+    if not s3_key:
+        raise RuntimeError(
+            f"No S3 key configured for level '{level}'. "
+            f"Please set AWS_{level.upper()}_KEY in your .env"
+        )
+
+    # Upload
+    upload_to_s3(text_path=local_text_path,key=s3_key,bucket_name=AWS_BUCKET_NAME)
+
+    return text
+
+def process_all_handbooks(levels=None):
+    """
+    Process and upload handbook PDFs for one or more levels.
+
+    Parameters
+    ----------
+    levels : None | str | list[str]
+        - None       → process ["UG", "PGT", "PGR"]
+        - "UG"       → process only UG
+        - ["UG","PGT"] → process UG and PGT
+    """
+    # Default: all levels
+    if levels is None:
+        levels = ["ug", "pgt", "pgr"]
+
+    # Allow a single string as input
+    if isinstance(levels, str):
+        levels = [levels]
+
+    # Normalise and validate
+    valid_levels = {"ug", "pgt", "pgr"}
+    norm_levels = []
+    for lvl in levels:
+        lvl_norm = lvl.strip().upper()
+        if lvl_norm.lower() not in valid_levels:
+            raise ValueError(f"Unsupported level '{lvl}'. Must be one of ug/pgt/pgr.")
+        norm_levels.append(lvl_norm)
+
+    # Process each requested level
+    for level in norm_levels:
+        pdf_path, local_text_path = get_path_name("handbook", level)
+        print(f"\n=== Processing {level} handbook ===")
+        process_and_upload_pdf_for_level(
+            pdf_path=pdf_path,
+            local_text_path=local_text_path,
+            level=level,
+        )
