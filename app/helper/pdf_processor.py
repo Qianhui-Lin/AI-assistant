@@ -10,6 +10,7 @@ AWS_BUCKET_NAME = os.getenv("AWS_BUCKET_NAME", "bucket-name")
 AWS_UG_KEY = os.getenv("AWS_UG_KEY")
 AWS_PGT_KEY = os.getenv("AWS_PGT_KEY")
 AWS_PGR_KEY = os.getenv("AWS_PGR_KEY") 
+AWS_ACADEMIC_KEY = os.getenv("AWS_ACADEMIC_KEY") 
 
 def get_path_name(type:str,level:str|None=None):
     if type.lower() == "handbook":
@@ -61,12 +62,12 @@ def upload_to_s3(text_path: str, key: str, bucket_name: str = AWS_BUCKET_NAME):
         print("ERROR: AWS credentials not found. Configure via environment variables.")
     except ClientError as e:
         print("AWS client error:", e)
-#NOTE 待检查
-def process_and_upload_pdf(pdf_path: str, local_text_path: str):
+
+def process_and_upload_pdf_for_other_document(pdf_path: str, local_text_path: str,s3_key: str):
     """Full pipeline: PDF → extract text → save locally → upload to S3."""
     text = extract_pdf_text(pdf_path)
-    save_text_locally(text)
-    upload_to_s3(local_text_path)
+    save_text_locally(text,local_text_path)
+    upload_to_s3(text_path=local_text_path,key=s3_key,bucket_name=AWS_BUCKET_NAME)
     return text
 
 def process_and_upload_pdf_for_level(
@@ -143,3 +144,28 @@ def process_all_handbooks(levels=None):
             local_text_path=local_text_path,
             level=level,
         )
+
+def process_other_document(type: str):
+    """
+    Process and upload other document types (e.g., academic integrity).
+
+    """
+    # Default: all levels
+    if type=="handbook":
+        raise ValueError("For handbook, please use process_all_handbooks() instead.")
+    pdf_path, local_text_path = get_path_name(type)
+    print(f"\n=== Processing {type} document ===")
+    if type=="academic-integrity":
+        s3_key = AWS_ACADEMIC_KEY
+        if not s3_key:
+            raise RuntimeError(
+                f"No S3 key configured for academic integrity document. "
+                f"Please set AWS_ACADEMIC_KEY in your .env"
+            )
+        process_and_upload_pdf_for_other_document(
+            pdf_path=pdf_path,
+            local_text_path=local_text_path,
+            s3_key=s3_key,
+        )
+    else:
+        raise ValueError(f"Unsupported document type '{type}'.")

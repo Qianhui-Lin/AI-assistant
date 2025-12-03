@@ -2,7 +2,7 @@ import chromadb
 from chromadb.config import Settings
 from openai import OpenAI
 import os
-from typing import List
+from typing import List,Optional
 
 client = OpenAI()
 
@@ -42,32 +42,41 @@ def normalise_level(level: str) -> str:
 
     return mapping.get(l, l)  
 
-def get_collection_name(level: str) -> str:
+def get_collection_name(doc_type: str, level: Optional[str] = None) -> str:
     """
-    Return the Chroma collection name for a given level.
-    Example: level='UG' -> 'handbook_ug'
+    Clean and universal naming for RAG collections.
+
+    Examples:
+        handbook + ug → "handbook_ug"
+        academic_integrity → "academic_integrity"
     """
-    norm = normalise_level(level)
-    return f"handbook_{norm}"
+    doc_type = doc_type.strip().lower()
+
+    if doc_type == "handbook":
+        if not level:
+            raise ValueError("Handbook collection requires a level (ug/pgt/pgr).")
+        norm_level = normalise_level(level)
+        return f"handbook_{norm_level}"
+
+    # All other doc types have no levels
+    return doc_type
 
 
-def get_or_create_collection_for_level(level: str):
+def get_or_create_collection_for_level(doc_type: str, level: Optional[str] = None):
     """
     Convenience wrapper: directly get/create the collection for a level.
     """
-    name = get_collection_name(level)
+    name = get_collection_name(doc_type, level)
     return chroma_client.get_or_create_collection(
         name=name,
         metadata={"hnsw:space": "cosine"},  # cosine similarity
     )
 
 
-def get_or_create_collection(collection_name: str):
-    """
-    Generic getter if you already know the collection name.
-    """
+def get_or_create_collection(doc_type: str, level: Optional[str] = None):
+    name = get_collection_name(doc_type, level)
     return chroma_client.get_or_create_collection(
-        name=collection_name,
+        name=name,
         metadata={"hnsw:space": "cosine"},
     )
 
@@ -100,14 +109,14 @@ def embed_text(texts):
 # --------------------------------
 # 3. Build DB from text
 # --------------------------------
-def build_rag_from_text(text: str, collection_name: str)-> List[str]:
+def build_rag_from_text(text: str, doc_type: str, level: Optional[str] = None)-> List[str]:
     chunks = chunk_text(text)
     embeddings = embed_text(chunks)
 
-    ids = [f"chunk_{i}" for i in range(len(chunks))]
+    ids = [f"{doc_type}_chunk_{i}" for i in range(len(chunks))]
 
-
-    col = get_or_create_collection(collection_name)
+    collection_name = get_collection_name(doc_type,level)
+    col = get_or_create_collection(doc_type, level)
     col.upsert(
         ids=ids,
         documents=chunks,
@@ -121,9 +130,9 @@ def build_rag_from_text(text: str, collection_name: str)-> List[str]:
 # --------------------------------
 # 4. Query DB
 # --------------------------------
-def search_similar_chunks(query: str, collection_name: str, top_k=5)-> List[str]:
+def search_similar_chunks(query: str, doc_type: str, level: Optional[str] = None, top_k=5)-> List[str]:
     query_embed = embed_text([query])[0]
-    col = get_or_create_collection(collection_name)
+    col = get_or_create_collection(doc_type, level)
 
     results = col.query(
         query_embeddings=[query_embed],
