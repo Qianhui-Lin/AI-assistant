@@ -1,3 +1,48 @@
 node_modules/
 mychatbot-env/
 .env
+# ---- General junk / OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Git & IDE ----
+.git
+.gitignore
+.vscode
+.idea
+
+# ---- Python caches ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# ---- Virtual environments ----
+.venv
+venv
+env
+ENV
+
+# ---- Test / coverage artifacts ----
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# ---- Build / dist ----
+build/
+dist/
+*.log
+
+# ---- Project-specific folders not needed in image ----
+deployment/
+doc/
+frontend/
+tests/
