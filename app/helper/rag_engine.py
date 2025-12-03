@@ -29,6 +29,9 @@ def normalise_level(level: str) -> str:
 
     l = level.strip().lower()
 
+    if l == "":
+        raise ValueError("Level cannot be whitespace only")
+
     mapping = {
         "ug": "ug",
         "undergraduate": "ug",
