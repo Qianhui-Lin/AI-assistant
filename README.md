@@ -39,7 +39,7 @@ Stores a short session history keyed by user token.
 ## How to run the service
 ### Configuration (`.env` File)
 
-A [template file]`.env.example` is included in the repository.
+A [template file](.env.example)`.env.example` is included in the repository.
 
 
 #### 1. Create a copy of the template
